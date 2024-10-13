@@ -1,5 +1,5 @@
 # SFR-fighting-game-engine
-## SFIBM DOS SFR fighting game engine ported to modern PCs!
+## DOS SFR fighting game engine ported to modern PCs!
 
 ![SFR](https://github.com/user-attachments/assets/92e84111-9fcf-459d-8227-1869ef2346b8)
 
