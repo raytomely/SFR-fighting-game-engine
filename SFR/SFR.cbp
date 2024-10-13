@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SFR" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/SFR" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="C:/Program Files/CodeBlocks/SDL-1.2.15/lib/SDL_mixer.lib" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="C:/Program Files/CodeBlocks/SDL-1.2.15/include" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add directory="C:/Program Files/CodeBlocks/SDL-1.2.15/lib" />
+		</Linker>
+		<Unit filename="SFR_src/fenix.h" />
+		<Unit filename="SFR_src/keys.h" />
+		<Unit filename="SFR_src/sfr_sdl.cpp" />
+		<Unit filename="SFR_src/sfr_sdl.h" />
+		<Unit filename="SFR_src/sfrabat.h" />
+		<Unit filename="SFR_src/sfrfight.cpp" />
+		<Unit filename="SFR_src/sfrtag.h" />
+		<Unit filename="SFR_src/sfrwai.h" />
+		<Unit filename="SFR_src/sfrwbase.h" />
+		<Unit filename="SFR_src/sfrwfite.h" />
+		<Unit filename="SFR_src/stub.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Release" />
+	<File name="SFR_src\sfrfight.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5868" topLine="237" />
+		</Cursor>
+	</File>
+	<File name="SFR_src\sfrtag.h" open="1" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="32274" topLine="1128" />
+		</Cursor>
+	</File>
+	<File name="SFR_src\sfrwai.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="115" topLine="18" />
+		</Cursor>
+	</File>
+	<File name="SFR_src\sfrwbase.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4792" topLine="281" />
+		</Cursor>
+	</File>
+	<File name="SFR_src\sfrwfite.h" open="1" top="1" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="111516" topLine="3075" />
+		</Cursor>
+	</File>
+	<File name="SFR_src\stub.h" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="74" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="SFR_src\keys.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5986" topLine="79" />
+		</Cursor>
+	</File>
+	<File name="SFR_src\fenix.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7669" topLine="229" />
+		</Cursor>
+	</File>
+	<File name="SFR_src\sfr_sdl.cpp" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13094" topLine="415" />
+		</Cursor>
+	</File>
+	<File name="SFR_src\sfr_sdl.h" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="842" topLine="17" />
+		</Cursor>
+	</File>
+	<File name="SFR_src\sfrabat.h" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="31807" topLine="1022" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
