@@ -1,0 +1,1132 @@
+SFRANMA DELUXE
+
+SFR engine created by Trufenix (drkfenix@aol.com)
+Characters and game created by Ghouly Mad Maximoff (Maximoff@aol.com)
+
+TO PLAY TYPE "SFRANMA"
+
+THE DEAL
+
+I consider this an alternate sequel to SFranma.  With SFranma 2, I was working
+on it assuming that there would be improvements made to the engine, and put
+too much in.  However with this game, I worked on it, considering the
+limitations of the engine (like I did with M Fighter), and the final
+product feels more like a complete game than a work in progress.
+
+I went for 3 groups of characters Street Fighter, Capcom, and SNK.  I was
+mostly inspired by the copy of Capcom vs. Snk that I got for $19.99, as well
+as the fact that Terry and Andy were characters in the original Korean SFibm
+program in the place of Balrog and Vega.  The SNK gang in this game to me
+is an expansion of that idea.  Not to mention that I had a ton of SNK
+characters from the past that were just laying around.  Finally, I kept
+forgetting, Fatal Fury is also one of my favorite anime series.
+
+Something I'd like to note is that I added 2 "crossover" characters for
+each group.  One is a character from another video game/anime from the same
+company (Morrigan, Fio Germi, Lum) and the other is a character from another
+videogame/anime from a different time (Linn Kurosawa, Kuroko, Inuyasha).
+This was initially inspired by the fact that I also got the PSX Inuyasha for
+$19.99 :).
+
+(Last minute note: I didn't know that Fio and Mr. Karate were going to
+be in SNK vs Capcom Chaos when I made them, honest :) )
+
+Also new for the game, a sorta more cohesive storyline!!!!!
+
+
+DEFAULT CONTROLS (can change in options)
+----------------------------------------
+Player 1
+Start           - Enter   
+Up              - Keypad 8
+Down            - Keypad 5
+Left            - Keypad 4
+Right           - Keypad 6
+Lght Punch      - A
+Med Punch       - S
+Hard Punch      - D
+Lght Kick       - Z
+Med Kick        - X
+Hard Kick       - C
+
+Player 2
+Start           - \       
+Up              - O
+Down            - K       
+Left            - L
+Right           - ;        
+Lght Punch      - Q
+Med Punch       - W
+Hard Punch      - E
+Lght Kick       - R
+Med Kick        - T
+Hard Kick       - Y
+
+THE STREET FIGHTERS
+-------------------
+
+RYU
+Game History:   Street Fighter 1
+                Street Fighter 2 series
+                Street Fighter Alpha series
+                Street Fighter 3 series
+                Street Fighter EX series
+                Marvel vs. series
+                SNK vs. series
+Anime History:  Street Fighter the Movie
+                Street Fighter V
+
+D,F,Punch               Fireball
+D,B,Kick                Cyclone Kick 
+F,D,F,Punch             Dragon Punch
+Throw w/ P2/P3          Shoulder Throw
+Throw w/ K2/K3          Leg Throw  
+SUPER ARTS
+D,F,D,F,Hard Punch      Vaccum Fireball (level 2)
+
+* Back to basics.  For some of the characters, I decided to revamp them back
+to what I call "CE Plus".  The basis for their moveset is SF2:Champion Edition
+with the addition of one super.  This is mostly based on the EX characters in
+CvS1.  Llinrac did note that all the evil characters were getting to be too
+much, even though it was done mostly in parody :).
+
+
+KEN
+Game History:   Street Fighter 1
+                Street Fighter 2 series
+                Street Fighter Alpha series
+                Street Fighter 3 series
+                Street Fighter EX series
+                Marvel vs. series
+                SNK vs. series
+Anime History:  Street Fighter the Movie
+                Street Fighter V
+
+D,F,Punch               Fireball
+D,B,Kick                Cyclone Kick 
+F,D,F,Punch             Dragon Punch
+Throw w/ P2/P3          Shoulder Throw
+Throw w/ K2/K3          Leg Throw  
+SUPER ARTS
+D,F,D,F,Hard Punch      Dragon Breaker (level 2)
+
+* Same as Ryu, this is also a "CE Plus" character.
+
+
+CHUN LI
+Game History:   Street Fighter 2 series
+                Street Fighter Alpha series
+                Street Fighter 3: 3rd impact
+                Street Fighter EX series
+                Marvel vs. series
+                SNK vs. series
+Anime History:  Street Fighter the Movie
+                Street Fighter V
+
+D,F,Punch               Dual Energy Palm
+B,F,Kick ground or air  Spinning Bird Kick        
+Tap Kick                100 Kicks                         
+Throw w/ P2/P3          Slam Throw
+Throw w/ K3             Falling Star
+SUPER ARTS
+B,F,B,F,Hard Kick       1000 Burst Kick (level 2)
+D,B,D,B,Hard Kick       Spinning Hornet Kick (level 2)
+
+
+GUILE
+Game History:   Street Fighter 2 series
+                Street Fighter Alpha 3
+                Street Fighter EX series
+                Marvel vs. Capcom 2
+                SNK vs. series
+Anime History:  Street Fighter the Movie
+                Street Fighter V
+
+B,F,Punch               Sonic Boom       
+D,B,Kick                Flash Kick      
+D,B,Hard Punch          Backfist                               
+Throw w/ P2             Arm Toss
+Throw w/ P3             Dragon Suplex
+Throw w/ K3             Inverted Jump Kick
+SUPER ARTS
+D,B,D,B,Hard Kick       Flash Justice (level 2)
+B,F,B,F,Hard Punch      Sonic Hurricane (level 2)
+
+
+ZANGIEF       
+Game History:   Street Fighter 2 series
+                Street Fighter Alpha series
+                Street Fighter EX series
+                Marvel vs. series
+                SNK vs. series
+Anime History:  Street Fighter the Movie
+                Street Fighter V
+
+F,D,B,Hard Punch        High Piledriver
+F,D,B,Hard Kick         Advancing Suplex
+B,F,Hard Punch          Spinning Lariat
+B,F,Hard Kick           Turbo Lariat
+F,D,F,Kick              Banishing Fist
+D,Med Punch in air      Air Headbutt
+D,Hard Punch in air     Body Splash
+D,Med Kick in air       Knee Drop
+Throw w/ P2             Piledriver  
+Throw w/ P3             Back Suplex     
+Throw w/ K2             Iron Claw                
+Throw w/ K3             Biting           
+SUPER ARTS
+D,B,D,B,Hard Punch      Atomic Piledriver (level 2)
+
+
+FEI LONG      
+Game History:   Super Street Fighter 2, Turbo
+                Street Fighter Alpha 3
+Anime History:  Street Fighter the Movie
+                Street Fighter V
+
+D,F,Light Punch
+to Medium Punch
+to Hard Punch           3 step punch
+B,D,B,Kick              Dragon Kick
+B,D,F,Kick              Flying Kick
+F,D,Medium Kick         Overhead Kick
+Throw w/ P2/P3          Arm Throw   
+SUPER ARTS
+D,F,D,F,Hard Punch      True Shining Punch (level 2)
+D,B,D,B,Hard Kick       Dragon Spiral (level 2)
+
+
+ROSE
+Game History:   Street Fighter Alpha series
+
+D,F,Punch               Soul Spark
+D,F,Kick                Soul Drill
+F,D,F,Punch             Soul Throw
+D,B,Punch               Soul Reflect
+Throw w/ P2/P3/K2/K3    Soul Drain
+SUPER ARTS
+D,F,D,F,Hard Punch      Aura Soul Throw (level 2)
+D,B,D,B,Hard Punch      Aura Soul Spark (level 2)
+
+
+RAINBOW MIKA
+Game History:   Street Fighter Alpha 3
+
+D,B,Punch               Flying Peach   
+D,B,Kick                Shooting Peach   
+D,F,Hard Punch          Paradise Hold     
+D,F,Hard Kick           Daydream Headlock
+D+Hard Punch in air     Mika Frog Splash
+Throw w/ P2             Headbutts   
+Throw w/ P3             Brainbuster 
+Throw w/ K2/K3          German Suplex
+SUPER ARTS
+D,F,D,F,Hard Punch      Rainbow Hip Rush (level 2)
+D,B,D,B,Hard Punch      New Heavenly Dynamite (level 2)
+
+
+ADON                
+Game History:   Street Fighter 1
+                Street Fighter Alpha series
+
+F,D,F,Kick              Jaguar Knee
+D,F,Kick                Jaguar Kick      
+D,B,Kick                Jaguar Tooth      
+D,F,Hard Punch          Jaguar Crunch
+Throw w/ P2/P3          Jaguar Carry
+Throw w/ K2/K3          Jaguar Slam
+SUPER ARTS
+D,F,D,F,Hard Punch      Jaguar Assault (level 2)
+D,F,D,F,Hard Kick       Jaguar Revolver (level 2)
+
+
+DAN      
+Game History:   Street Fighter Alpha series
+                MSH vs. SF, Marvel vs Capcom 2
+                SNK vs. series
+            
+D,F,Punch               Fireball
+D,B,Kick                Wind Kick
+F,D,F,Punch             Dragon Punch
+F,B,Hard Punch          Taunt
+F,D,F,Hard Kick         Rolling Taunt (forward)
+B,D,B,Hard Kick         Rolling Taunt (back)
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Roaring Fireball (level 2)
+D,F,D,F,Hard Kick       Shining Dragon (level 2)
+D,B,D,B,Hard Kick       Self-reliant Fist (level 2)
+D,B,D,B,Hard Punch      Legendary Taunt (level 2)
+
+* Based on the SFA1 version.
+
+
+EAGLE
+Game History:   Street Fighter 1
+                Street Fighter Alpha 3 (GBA)
+                Capcom vs SNK 2
+
+D,F,Punch               Oxford Red
+D,B,Punch               Manchester Black
+D,B,Kick                Liverpool White
+Throw w/ P2/P3/K2/K3    Eagle Toss
+SUPER ARTS
+D,F,D,F,Hard Punch      Union Jack Platinum (level 2)
+D,B,D,B,Hard Punch      Mancheater Gold (level 2)
+
+
+GEKI
+Game History:   Street Fighter 1
+
+D,F,Punch       Kunai Throw (ground or air)
+D,B,Punch       Rolling Claw
+D,F,Kick        Wind Slash Kick
+D,B,Kick        Smoke Teleport
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ART 
+D,F,D,F,Hard Punch      Kunai Barrage (level 2) (ground or air)
+D,F,D,F,Hard Kick       Teleport Rampage (level 2)
+
+
+SAKURA   
+Game History:   Street Fighter Alpha 2,3
+                Street Fighter EX 1
+                MSH vs. SF, Marvel vs. Capcom 2
+                SNK vs. series
+
+D,F,Punch               Fireball (Can hold for 1 more level on Medium Punch,
+                                  2 levels on Hard)
+D,B,Kick                Cyclone Kick
+F,D,F,Punch             Dragon Punch
+F,D,Medium Kick         Flower Kick
+Throw w/ P2/P3          Choke Hold   
+Throw w/ K2/K3          Arrow Shoot   
+SUPER ARTS
+D,F,D,F,Hard Punch      Vaccum Fireball (level 2)
+D,B,D,B,Hard Kick       Vaccum Hurricane (level 2)
+D,F,D,F,Hard Kick       Confusing Cherry (level 2)
+
+
+KARIN KANZUKI
+Game History:   Street Fighter Alpha 3
+
+D,F,Hard Punch          Double Palm
+follow w/ D,F,Light Punch       Palm Thrust
+follow w/ D,F,Medium Punch      Double Elbow
+follow w/ D,F,Hard Punch        Spin Punch
+follow w/ D,F,Light Kick        Double Kick
+follow w/ D,F,Medium Kick       High Reversal
+follow w/ D,F,Hard Kick         Low Reversal
+F,D,F,Punch             Palm Thrust
+F,D,F,Kick              Double Kick
+B,D,B,Punch             Double Elbow
+B,D,B,Kick              Spin Punch
+D,B,Hard Punch          High Reversal
+D,B,Hard Kick           Low Reversal
+F,D,Medium Kick         Elegant Kick
+Throw w/ P2/P3          Takedown         
+Throw w/ K2/K3          Rapid Knee 
+SUPER ARTS
+D,F,D,F,Hard Punch      Kanzuki Palm (level 2)
+D,F,D,F,Hard Kick       Kanzuki Spiral (level 2)
+
+
+BALROG              
+Game History:   Street Fighter 1 (Mike?)
+                Street Fighter 2 series
+                Street Fighter Alpha 3
+                SNK vs. series
+Anime History:  Street Fighter the Movie
+                Street Fighter V
+
+B,F,Punch               Dash Straight
+B,F,Kick                Dash Upper    
+B,D,Punch               Dash Trip     
+D,U,Punch               Buffalo Headbutt
+F,D,B,Hard Punch        Turn Punch (can hold Punch for 3 more levels)
+Throw w/ P2/P3/K2/K3    Rapid Headbutt
+SUPER ARTS
+B,F,B,F,Hard Punch      Crazy Buffalo Straight (level 2)
+B,F,B,F,Hard Kick       Crazy Buffalo Upper (level 2)
+D,B,D,B,Hard Punch      Gigaton Blow (level 3)
+
+
+SAGAT
+Game History:   Street Fighter 1
+                Street Fighter 2 series
+                Street Fighter Alpha series
+                Street Fighter EX series
+                Marvel vs. series
+                SNK vs. series
+Anime History:  Street Fighter the Movie
+                Street Fighter V
+
+D,F,Punch               High Tiger Shot
+D,F,Kick                Low Tiger Shot   
+F,D,F,Punch             Tiger Uppercut    
+F,D,F,Kick              Tiger Knee   
+Throw w/ P2/P3          Tiger Throw 
+Throw w/ K2/K3          Tiger Rage 
+SUPER ARTS
+D,F,D,F,Hard Punch      Tiger Cannon (level 2)
+D,F,D,F,Hard Kick       Tiger Genocide (level 2)
+D,B,D,B,Hard Kick       Tiger Raid (level 2)
+
+
+MORRIGAN AENSLAND
+Game History:   Darkstalkers series    
+                Marvel vs Capcom 1, 2    
+                SNK vs. series
+Anime History:  Darkstalkers series
+
+D,F,Punch               Soul Fist (ground or air)
+F,D,F,Punch             Shadow Blade
+D,B,Hard Punch          Vector Drain
+D+Hard Kick in air      Shell Kick
+Throw w/ P2/P3          Moon Tracer
+SUPER ARTS
+D,F,D,F,Hard Punch      Soul Phoenix (ground or air) (level 2)
+D,F,D,F,Hard Kick       Cardinal Blade (level 2)
+D,B,D,B,Hard Punch      Darkness Illusion (level 2)
+
+
+LINN KUROSAWA   
+Game History:   Alien vs Predator
+
+D,F,Punch               Gun Shots   
+D,F,Punch in air        Air Shots
+D,B,Punch               Advancing Slash 
+D,F,Kick                Tiger Shadow Kick                               
+D,Punch in air          Downward Stab
+Throw w/ P2/P3          One Armed Throw
+Throw w/ K2/K3          Power Throw    
+SUPER ART 
+D,F,D,F,Hard Punch      Power Wave (level 2)    
+D,B,D,B,Hard Punch      Hurricane Slash (level 2)
+
+
+M.BISON       
+Game History:   Street Fighter 2 series
+                Street Fighter Alpha series
+                Street Fighter EX series
+                Xmen vs. SF, MSH vs. SF, Marvel vs. Capcom 2
+                SNK vs. series
+Anime History:  Street Fighter the Movie
+                Street Fighter V
+
+Normal:
+B,F,Punch               Psycho Shot
+B,F,Kick                Scissor Kick                
+D,U,Punch               Devil Reverse
+D,U,Light/Med Kick      Devil Stomp
+D,U,Hard Kick           Devil Stomp to Reverse
+F,D,F,Hard Kick         Bison Warp (forward)
+B,D,B,Hard Kick         Bison Warp (back)
+Throw w/ P2/P3/K2/K3    Deadly Throw  
+SUPER ARTS
+B,F,B,F,Hard Punch      Super Psycho Crusher (level 2)
+B,F,B,F,Hard Kick       Scissor Nightmare (level 2)
+D,B,D,B,Hard Punch      Change to Shin Bison (level 3)
+Shin Bison:
+B,F,Punch               Psycho Crusher
+B,F,Kick                Juggle Scissor             
+D,U,Punch               Devil Reverse
+D,U,Kick                Devil Stomp to Reverse
+F,D,F,Hard Kick         Quick Warp (forward)
+B,D,B,Hard Kick         Quick Warp (back)
+Throw w/ P2/P3/K2/K3    Deadly Throw  
+SUPER ARTS
+B,F,B,F,Hard Punch      Final Psycho Crusher (level 2)
+B,F,B,F,Hard Kick       Scissor Nightmare (level 1)
+
+
+GOUKI
+Game History:   Super Street Fighter 2 Turbo
+                Street Fighter Alpha Series
+                Street Fighter EX 1
+                X-men, X-men vs. SF, MSH vs. SF, Marvel vs. Capcom 1, 2
+                SNK vs. Series
+Anime History:  Street Fighter the Movie
+                Street Fighter V
+
+D,F,Punch               Great Fireball
+D,F,Punch in air        Air Cutter Fireball
+D,B,Punch               Great Heat Fireball
+D,B,Kick                Great Cyclone Kick
+F,D,F,Punch             Great Dragon Punch
+D,Medium Kick           Dive Kick
+F,D,F,Hard Kick         Demon Warp (forward)
+B,D,B,Hard Kick         Demon Warp (back)
+Throw w/ P2/P3          Shoulder Throw
+Throw w/ K2/K3          Leg Throw  
+SUPER ART
+P1,P1,F,P3,K1           Instant Hell Murder (level 3)
+
+* Based on SSF2T form (as controlled by the computer) plus the Raging Demon.
+
+-----------------------------------------------------------------------------
+
+THE SNK CLIQUE
+--------------
+
+TERRY BOGARD
+Game History:   Fatal Fury series
+                King of Fighters series
+                Garou: Mark of the Wolves
+                SNK vs. series
+Anime History:  Fatal Fury series
+
+D,F,Punch               Power Wave
+D,B,Punch               Burn Knuckle
+D,B,Kick                Crack Shoot
+F,D,F,Punch             Rising Tackle
+F,D,F,Kick              Power Dunk
+Throw w/ P2/P3/K2/K3    Buster Throw
+SUPER ARTS
+D,B,D,F,Hard Punch      Power Geyser (level 2)                                                      
+D,F,D,F,Hard Punch      Buster Wolf (level 2)
+D,F,D,F,Hard Kick       Overheat Geyser (level 2)
+
+
+ANDY BOGARD
+Game History:   Fatal Fury series
+                King of Fighters series
+Anime History:  Fatal Fury series
+
+D,F,Punch       Dragon Bullet
+D,B,Punch       Flying Punch
+D,F,Kick        Drop Kick   
+B,F,Kick        Slash Elbow
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ART 
+D,F,D,F,Hard Kick       Fire Drop Kick (level 2)
+
+
+JOE HIGASHI
+Game History:   Fatal Fury series
+                King of Fighters series
+Anime History:  Fatal Fury series
+
+D,F,Light/Med Punch     Hurricane Upper
+D,F,Hard Punch          Double Hurricane Upper
+B,F,Kick                Slash Kick
+F,D,F,Kick              Tiger Knee
+Tap Punch               Dynamite Punch
+D,F,Hard Punch after
+Dynamite Punch          Dynamite Uppercut
+Throw /w P2/P3          Thai Throw
+Throw /w K2/K3          Knee Inferno
+SUPER ARTS:
+D,F,D,F,Hard Punch      Screw Upper (level 2)
+
+
+BLUE MARY
+Game History:   Fatal Fury 3, RB, RB Special, RB2
+                King of Fighters 97, 98, 99, 00, 01, 02
+
+D,F,Light/Med Punch     Spin Fall
+D,F,Hard Punch          Mary Spider
+B,F,Light/Med Kick      Straight Slicer
+B,F,Hard Kick           Mary Crunch
+F,D,F,Light/Med Kick    Vertical Arrow
+F,D,F,Hard Kick         Mary Snatcher
+D,B,Hard Punch          Counter Leg Toss
+Throw w/ P2/P3          German Suplex
+Throw w/ K2/K3          Leg Toss
+SUPER ARTS:
+D,F,D,B,Hard Punch      Mary Splash Rose (level 2)
+D,B,D,B,Hard Kick       Mary Typhoon (level 2)
+
+
+KYO KUSANAGI
+Game History:   King of Fighters series
+                SNK vs. Series
+
+D,F,Punch               Darkness Sweep
+F,D,F,Punch             Demon Burn
+D,B,Kick                Twilight Ride
+D,B,Punch               New Wave Smash
+D,F,Kick                Crescent Slash
+Throw w/ P2/P3/K2/K3    Elbow Drop Throw
+SUPER ARTS
+D,B,D,F,Hard Punch      Serpent Wave (level 2)
+
+* Based on classic Kyo from KOF 1994/5
+
+
+IORI YAGAMI
+Game History:   King of Fighters 95, 96, 97, 98, 99, 00, 01, 02
+                SNK vs. series
+
+D,F,Punch       Type 108: Demon Sweep
+F,D,F,Punch     Type 100: Demon Burn                  
+D,B,Light Punch to
+Medium Punch to
+Hard Punch      Type 127: Deadly Flower
+D,B,Kick        Type 212: Moon of Koto
+Throw w/ P2/P3/K2/K3    Reverse Claw
+SUPER ARTS
+D,F,D,B,Hard Punch      Type 1201: Eight Maidens (Level 2)
+D,B,D,F,Hard Punch      Type 180: Eight Cups (Level 2)
+
+
+DUCK KING
+Game History:   Fatal Fury 1, Special, RB, RB Special, RB2, Wild Ambition
+                King of Fighters series
+                Garou: Mark of the Wolves
+                SNK vs. series
+Anime History:  Fatal Fury 1, Movie
+
+D,F,Punch               Head Spin
+D,F,Kick                Break Storm Special
+D,B,Kick                Dancing Dive
+Throw w/ P2/P3/K2/K3    Duck Toss
+SUPER ARTS
+D,F,D,F,Hard Punch      Deadly Duck Rave (level 2)
+D,F,D,F,Hard Kick       Break Spiral (level 2)                                                      
+
+
+BILLY KANE
+Game History:   Fatal Fury 1, 2, Special, RB, RB Special, RB2, Wild Ambition
+                King of Fighters 95, 97, 98, 02
+Anime History:  Fatal Fury series
+
+Tap Punch       Whirlwind Cane
+B,F,Punch       Cane Blow
+D,B,Punch       Sparrow Hunter
+D,F,Kick        Strong Flying Cane
+Throw w/ P2/P3  Cane Toss
+Throw w/ K2/K3  Cane Launch
+SUPER ARTS:
+D,F,D,B,Hard Punch      Flaming Whirlwind (level 2)
+
+
+MAI SHIRANUI
+Game History:   Fatal Fury 2, Special, 3, RB, RB Special, RB2, Wild Ambition
+                King of Fighters series
+                SNK vs. series
+Anime History:  Fatal Fury 2, The Movie
+
+D,F,Punch       Fan Throw
+D,B,Punch       Dragon Flame
+D,F,Kick        Ninja Bee Strike
+D,B,Kick        Squirrel Dive
+Throw w/ P2/P3  Leg Toss  
+Throw w/ K2/K3  Shoulder Throw      
+SUPER ART:
+F,B,D,F,Hard Kick       Super Ninja Bee Stirke (level 2)
+
+
+KING
+Game History:   Art of Fighting 1, 2
+                King of Fighters 94, 95, 96, 97, 98, 99, 00, 01
+                SNK vs. Series
+Anime History:  Art of Fighting
+
+D,F,Kick                Venom Strike
+D,F,D,F,Hard Kick       Double Strike
+D,B,Kick                Mirage Kick
+F,D,F,Kick              Trap Shot
+B,D,B,Kick              Tornado Kick
+F,D,F,Punch             Surprise Rose
+Throw w/ P2/P3/K2/K3    Hook Throw
+SUPER ARTS:
+D,F,D,B,Hard Kick       Illusion Dance (level 2)
+D,B,D,B,Hard Kick       Silent Flash (level 2)
+
+
+MR. KARATE (TAKUMA SAKAZAKI)
+Game History:   Art of Fighting 1, 2
+                King of Fighters 94, 95, 98, 99, 00, 01, 02
+                King of Fighters 96 (Gameboy)        
+D,F,Punch               Tiger Fire
+D,B,Kick                Gale Kick      
+D,F,Kick                Riot Kick
+D,B,Hard Punch          Violent Fist
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+F,B,D,F,Hard Punch      Supreme Tiger Fire (level 2)
+D,B,D,F,Hard Punch      Dragon Tiger Rampage (level 2)
+
+* Note that he's primarily based on the KOF 1996 Gameboy hidden character.
+Also, I actually finished him before SNK announced him for their new SNK vs
+Capcom game. :)
+
+
+KIM KAP HWAN     
+Game History:   Fatal Fury 2, Special, 3, RB, RB Special, RB2, Wild Ambition
+                King of Fighters series
+                SNK vs. series
+Anime History:  Fatal Fury 2, The Movie
+
+D,F,Kick                Flying Slash
+D,B,Kick                Half Moon Slash
+D+Kick in air           Diving Kick
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+D,B,D,F,Hard Kick       Phoenix Kick (level 2)
+
+
+RALF JONES
+Game History:   Ikari Warriors series
+                King of Fighters series
+
+Tap Punch       Vulcan Punch
+B,F,Punch       Gatling Attack 
+D,F,Punch       Blitzkrieg Punch
+D,F,Hard Kick   Argentine Back Breaker
+Throw w/ P2/P3  Ikari Bomb
+Throw w/ K2/K3  Northern Lights Bomb
+SUPER ARTS
+D,B,F,Hard Punch        Bari-Bari Vulcan Punch (level 2)
+D,F,D,F,Hard Punch      Galactica Phantom (level 2)
+
+
+LEONA
+Game History:   King of Fighters 96, 97, 98, 99, 00, 01, 02
+
+D,F,Punch       Moon Slasher
+D,F,Kick        X Caliber
+B,F,Punch       Baltic Launcher
+B,F,Kick        Ground Saber
+D,B,Punch       I Slasher
+Throw w/ P2/P3  Leona Crush 
+Throw w/ K2/K3  Orient Buckler
+SUPER ARTS:
+D,F,D,F,Hard Punch      Gravity Storm (level 2)
+D,B,D,F,Hard Kick       Rebel Spark (level 2)
+
+
+K9999
+Game History:   King of Fighters 01, 02
+Anime History:  Well, he obviously watched Akira more than once
+
+D,F,Punch               Dust Wave
+D,F,Kick                Fire Slash
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS                   
+D,F,D,F,Hard Punch      Moon Sphere (level 2)
+D,F,D,F,Hard Kick       Get Lost (level 2)
+D,B,D,B,Hard Punch      Loss of Control (level 2)
+
+
+ANGEL  
+Game History:   King of Fighters 01, 02 
+
+D,B,Kick                Twist Kick
+D,B,D,Hard Kick         Mad Roulette
+CHAIN START
+D,F,Punch               Gut Punch
+D,F,Low Kick            Trip Kick
+D,F,Med Kick            Axe Kick
+D,F,Hard Kick           2 Hit Spin Kick
+CHAIN MID   
+F,Hard Punch            Collarbone Punch
+F,Hard Kick             High Kick
+U,Hard Punch            Uppercut
+U,Hard Kick             Jump Kick
+D,Hard Punch            Slide Punch
+D,Hard Kick             Slide Kick
+CHAIN END
+B,Med Punch             Uppercut Spin
+B,Hard Punch            Knockout Punch
+B,Med Kick              Cartwheel Kick
+B,Hard Kick             Dropkick Grab
+Throw w/ P2/P3          Close Attack  
+Throw w/ K2/K3          Dropkick   
+SUPER ART 
+D,F,D,F,Hard Punch      Monday Night Parade (level 2)
+
+* Her chain attacks are there, although they are in a limited fashion.  You
+can only enter a chain start to chain mid to chain end.  You cannot repeat
+any chain moves.  I also simplified the commands.
+
+
+KUROKO     
+Game History:   Samurai Shodown 2, Samurai Shodown GB
+Anime History:  Samurai Shodown
+
+D,F,Light Punch         Tiger Fire
+D,F,Medium Punch        Mega Smash    
+D,F,Hard Punch          Dual Cookie     
+D,F,Light Kick          Supreme Tiger Fire     
+D,F,Medium Kick         Spike Ball
+D,F,Hard Kick           Cross Cutter
+D,B,Punch               Flags of Fury
+Tap Punch               Shockwave
+Throw w/ P2/P3/K2/K3    1000 Kicks
+SUPER ART 
+D,F,D,F,Hard Punch      Dragon Tiger Rampage (level 2)
+D,F,D,B,Hard Punch      Alternate Dragon Tiger Rampage (level 2)
+
+
+FIO GERMI
+Game History:   Metal Slug 2, X, 3, 4
+
+B,F,Punch       Flying Ambush
+B,F,Kick        Gatling Kick
+D,B,Kick        Blade Kick
+Throw w/ P2/P3/K2/K3    Ikari Bomb 
+SUPER ARTS:
+D,B,D,B,Hard Kick       Metal Blade (level 2)
+D,B,D,F,Hard Kick       Phoenix Blade (level 2)
+
+* Her sprites were originally edited by the creators at
+http://mugenchina.mgbr.net for their mugen character.  I have tried to
+contact them with no luck.  I decided to put the character in anyways,
+however if any of the original authors have a problem with me using these
+sprites, then I will take the character out of the game.
+
+
+GEESE HOWARD
+Game History:   Fatal Fury, Special, 3, RB, RB Special, RB2, Wild Ambition
+                Art of Fighting 2
+                King of Fighters 96
+Anime History:  Fatal Fury series
+
+D,F,Light/Med Punch             Violent Slash
+D,F,Hard Punch                  Double Violent Slash
+D,B,Light/Med Punch in air      Wind Slash
+D,B,Hard Punch in air           Double Wind Slash
+D,B,Punch                       Shadow Attack
+D,F,Hard Kick                   Counter Throw
+Throw w/ P2/P3          Body Slam
+Throw w/ K2/K3          High Toss
+SUPER ARTS:
+D,F,D,F,Hard Punch      Raging Storm (level 2)
+
+
+WOLFGANG KRAUSER
+Game History:   Fatal Fury 2, Special, RB Special, RB2
+                King of Fighters 1996
+Anime History:  Fatal Fury 2
+
+D,B,Punch               High Blitz Ball
+D,B,Kick                Low Blitz Ball
+D,F,Kick                Leg Tomahawk
+B,D,F,Hard Punch        Counter Throw
+Throw w/ P2/P3          Knee Strike
+Throw w/ K2/K3          Power Bomb
+SUPER ART:
+F,B,D,F,Hard Punch      Kaiser Wave (level 2)
+
+-----------------------------------------------------------------------------
+
+THE RANMA 1/2 GANG
+------------------
+
+RANMA SAOTOME
+Game History:   Ranma 1/2: Neighborhood Combat
+                Ranma 1/2: Hard Battle
+                Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+D,F,Punch               Fierce Tiger
+D,B,Punch               Dragon Ascent
+Tap Punch               Chestnut Fist
+D,F,Kick                Tumbling Kick
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Dragon Descent (level 2)
+D,B,D,B,Hard Punch      Supreme Chestnut Fist (level 2)
+
+- From Ranma 1/2: Hard Battle.  The Supreme Chestnut fist is a new move.
+With all the Hard Battle characters, I based their moveset on the one from
+Super Battle.
+
+
+RYOUGA HIBIKI
+Game History:   Ranma 1/2: Neighborhood Combat
+                Ranma 1/2: Hard Battle
+                Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+D,F,Punch               Roaring Lion Shot (Incomplete)
+D,B,Punch               Blasting Point Hole
+B,F,Hard Punch          Jumping Headbutt
+Throw w/ P2/P3/K2/K3    One-handed Power Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Roaring Lion Shot (Complete) (level 2)
+D,B,D,B,Hard Punch      Exploding Blasting Point Hole (level 2)
+
+
+AKANE TENDO
+Game History:   Ranma 1/2: Hard Battle
+                Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+B,F,Punch               Windblast Fist
+D,B,Punch               Dust Devil Uppercut
+D,F,Kick                Spin Kick
+Throw w/ P2/P3/K2/K3    Leg Throw
+SUPER ARTS
+B,F,B,F,Hard Punch      Powerblast Fist (level 2)
+B,F,B,F,Hard Kick       Super Spin Kick (level 2)
+
+
+GENMA SAOTOME
+Game History:   Ranma 1/2: Neighborhood Combat
+                Ranma 1/2: Hard Battle
+                Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+B,F,Punch               Dashing Headbutt
+D,U,Punch               Rising Headbutt
+Tap Punch               Panda 100 Fist
+F,D,B,Hard Punch        Parental Rage
+Throw w/ P2/P3/K2/K3    Fierce Throw
+SUPER ART 
+B,F,B,F,Hard Punch      Power Headbutt (level 2)
+
+
+SHAMPOO
+Game History:   Ranma 1/2: Neighborhood Combat
+                Ranma 1/2: Hard Battle
+                Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+D,F,Punch               Air Toss
+D,F,Kick                Flying Kick
+B,F,Punch               Fury Charge
+D,B,Hard Kick on ground Rolling Overhead Kick
+D,B,Hard Kick in air    Head Stomp
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+D,B,D,B,Hard Kick air   Power Stomp (level 2)
+D,F,D,F,Hard Kick       Dragon Sky Kick (level 2)
+
+
+MOUSSE
+Game History:   Ranma 1/2: Hard Battle
+                Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+D,F,Punch               Knife Toss
+Tap Punch               100 Weapons
+D,F,Hard Kick in air    Hawk Talon Strike
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+B,F,D,B,Hard Punch      Egg Fist (level 2)
+D,F,D,F,Hard Kick       Arsenal Rampage (level 2)
+
+
+TATEWAKI KUNO
+Game History:   Ranma 1/2: Neighborhood Combat
+                Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+D,F,Punch               Sky Arc Slash
+D,F,Kick                Murderous Thunder
+B,F,Punch               Kendo Dash 
+F,B,Hard Punch          Kendo Retreat   
+Throw w/ P2/P3/K2/K3    Kendo Throw
+SUPER ARTS
+D,B,D,B,Hard Punch      Vengance of Heaven (level 2)
+B,F,B,F,Hard Punch      Lightning Strike (level 2)
+
+
+KODACHI KUNO
+Game History:   Ranma 1/2: Neighborhood Combat
+                Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+B,F,Punch               Club Toss    
+B,F,Kick                Ribbon Sweep     
+D,U,Punch               Poison Rose      
+Tap Punch               1000 Clubs      
+Throw w/ P2/P3/K2/K3    Ribbon Throw
+SUPER ART 
+D,B,D,B,Hard Punch      Black Rose Snowfall (level 2)
+
+
+UKYO KUONJI
+Game History:   Ranma 1/2: Hard Battle
+                Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+D,F,Punch               Spatula Throw
+D,F,Kick                Pepper Throw
+D,B,Punch               Flour Throw (can combo afterwards)
+Throw w/ P2/P3/K2/K3    Spatula Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Spatula Dash (level 2)
+D,B,D,F,Hard Punch      Spatula Rampage (level 2)
+
+
+MARIKO KONJOU
+Game History:   Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+D,F,Punch               Baton Cutter    
+D,F,Punch in air        Air Baton Cutter
+D,B,Kick                Somersault Kick
+D,F,Hard Kick           Swan Kick
+Throw w/ P2/P3/K2/K3    Cheer Throw
+SUPER ARTS
+D,F,D,F,Hard Kick       High Somersault (level 2)
+D,B,D,B,Hard Punch in air
+                        Sea Urchin Bomb (level 2)
+
+
+PRINCIPAL KUNO
+Game History:   Ranma 1/2: Neighborhood Combat
+Anime History:  Ranma 1/2
+
+D,F,Punch               Pineapple Bomb
+D,B,Punch               Atomizer         
+D,F,Punch in air        Lobster Clipper  
+Tap Punch               Rolling Clipper 
+Throw w/ P2/P3/K2/K3    Arm Throw
+SUPER ART 
+D,F,D,F,Hard Punch      Ride the Wave (level 2)
+
+
+HINAKO NINOMIYA
+Game History:   Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+As child:
+D,F,Punch               50 Yen Attack (High)
+D,F,Kick                50 Yen Attack (Low)
+B,F,Hard Punch          Running Head Spin
+B,F,Hard Kick           Running Slide
+Throw w/ P2/P3/K2/K3    Hopping Punch
+SUPER ART
+D,F,D,F,Hard Punch      Change to adult form (level 2)
+As adult:
+D,F,Punch               50 Yen Attack
+D,F,Kick                50 Yen Return
+B,F,Kick                Power Kick
+Throw w/ P2/P3/K2/K3    Power Throw
+SUPER ART
+D,B,D,B,Hard Punch      Super 50 Yen Return (level 2, change to child form)
+
+
+THE GAMBLING KING
+Game History:   Ranma 1/2: Hard Battle
+Anime History:  Ranma 1/2
+
+B,F,Punch               Mahjong Cue
+D,B,Light Punch
+to Medium Punch
+to Hard Punch           Three of a kind
+D,F,Punch in air        Two Pair
+Throw w/ P2/P3/K2/K3    Lucky Toss
+SUPER ARTS
+F,D,B,F,Hard Punch      Five Card Draw (level 2)
+
+
+HIKARU GOSUNGKI
+Game History:   Ranma 1/2: Hard Battle
+Anime History:  Ranma 1/2
+
+D,F,Punch               Voodoo Doll Throw
+Tap Punch               Voodoo Doll Spin
+Throw w/ P2/P3/K2/K3    Arm Throw
+SUPER ART
+D,F,D,F,Hard Punch      Voodoo Revenge (level 3)
+
+
+COLOGNE
+Game History:   Ranma 1/2: Neighborhood Combat
+Anime History:  Ranma 1/2
+
+D,F,Punch               True Dragon Ascent
+D,B,Punch               True Blasting Point Hole
+Tap Punch               True Chestnut Fist
+Throw w/ P2/P3/K2/K3    Cane Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      True Supreme Chestnut Fist (level 2)
+D,B,D,B,Hard Punch      True Exploding Blasting Point Hole (level 2)
+
+
+HAPPOSAI
+Game History:   Ranma 1/2: Neighborhood Combat
+                Ranma 1/2: Hard Battle
+Anime History:  Ranma 1/2
+
+D,F,Punch               Happy Shot
+F,D,B,Punch             Shining Firecracker
+Throw w/ P2/P3/K2/K3    Pipe Throw
+SUPER ART 
+D,F,D,F,Hard Punch      Spirit Blast (level 2)
+
+
+INUYASHA     
+Game History:   Inuyasha
+Anime History:  Inuyasha
+
+D,F,Punch               Blades of Blood (ground or air)
+D,B,Punch               Iron Reaver
+D,F,Kick                Wind Scar                                       
+Throw w/ P2/P3/K2/K3    One Armed Throw
+SUPER ART 
+D,F,D,F,Hard Punch      Dragon Twister (level 2)    
+
+
+LUM
+Game History:   Urusei Yatsura
+Anime History:  Urusei Yatsura
+
+D,F,Punch       Lightning Fist
+D,B,Punch       Lightning Bolt (ground or air)
+B,F,Punch       Super Dive
+Throw w/ P2/P3/K2/K3    Lightning Hold
+SUPER ART 
+D,B,D,B,Hard Punch      Electric Wave (level 2)
+
+
+PANTYHOSE TARO  
+Game History:   Ranma 1/2: Hard Battle
+Anime History:  Ranma 1/2
+
+B,F,Punch               P-Slash     
+B,F,Kick                Exploding Kick
+Throw w/ P2/P3/K2/K3    One Arm Throw
+SUPER ART 
+D,B,D,B,Hard Punch      P-Barrage (level 2)
+
+
+HERB                
+Game History:   Ranma 1/2: Super Battle
+Anime History:  Ranma 1/2
+
+B,F,Punch               Dragon Slash
+B,F,Kick                Power Cannon 
+D,U,Punch               Rising Knife 
+D,B,Kick                Energy Kick  
+Throw w/ P2/P3/K2/K3    Palm Throw
+SUPER ART 
+F,B,D,F,Hard Punch      New Dragon Flight (level 2)
+
+
+GAME BUGS/OTHER NOTES
+---------------------
+- No more alternate forms of characters.  I only added one form for each
+  character that had multiple ones in the past (i.e. Ranma, Genma, etc)
+- Not to say that I forgot about the alternate forms.  If I make a sequel
+  to this game and I have an  engine that will allow me to add multiple
+  forms, I will add them.  Also there are still characters that can change
+  form in mid play (M.Bison, Hinako).
+- On a related note, there are 2 characters with a hidden level 3 super art
+  that will transform them into another form.
+
+- Match resets when ypu press Down of the keypad
+- All attacks normally D,U or another varaitaion have their direction
+  changed.  It's hard to do a D,U motion on a computer.
+- Some of the special throws screw up at times.
+- In a normal match when you throw, you get credit for winning 2 matches
+- Some attacks marked as unblockable can hit through throws
+
+Special thanks to Jenn Dolari, Trufenix, Llinrac, Nitemare James,
+Dragonball Remix, Death Adder, Majere, Derek Liu, Brian Chan,
+The makers of Callus, The makers of Final Burn, The makers of ZSNES,
+Rumiko Takahashi, Capcom, anyone who ever played a SFibm game, and anyone else
+I may have forgotten.
+
+SfRanma 2 beta          11/05/2000
+         update 1       11/19/2000
+         update 2        3/20/2002 
+SfRanma Deluxe           6/08/2003
+
+

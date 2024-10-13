@@ -1,0 +1,609 @@
+SFR
+
+The kickass fighting game engine with over 100 editable popular fighting game characters! So here? the breakdown?
+
+The files
+
+SFR is based on more than its executable. Several other files must be integrated for I to work well. It must be configured with cfg files, one including a list of id files. And must work with ide? (sprites), re? (hit reaction zones), seq? (properties and animations), and cmd files (for control and sound effects). Also backgrounds, bg music files used, select pics, and certain system files must be present.
+
+Id Files
+
+Basically, the name of a char, "type", a checklist of files to load for them, and an opponent list. Looks a lot like this?
+
+SPIDER_MAN
+
+1
+
+spis.26 spi.100 spi.ide spi.seq spi.cmd arena.520 spidey.mid
+
+%rand% %rand% spi.id ending
+
+I? sure you can tell where the name goes?but see that 1 below it? This means he? an SFR-based char. You can add SfiBM-based char?, but put a 0 to indicate them.
+
+Then there? the list? the first is the raw format pic used for the character select screen (spis.26), and under the life bar during the game. If one can? load for some reason, it?l simply use the one loaded before it. Same goes for the second file (spi.100), only this usually-bigger file is used as the big select/vs screen pic.
+
+The spi.ide file is the file that contains the picture series (sprite rip) used within the game. It is accompanied by a re file of the same name. Don? know what?l happen without it, you may never be able to inflict damage!
+
+Then there? the seq file. Simply put, it tells what ide pic to use, when to use it, and what it does. This will be a majorly-focused-on file in editing characters, and I?l go into more detail later?
+
+The cmd file is listed next, followed by the background pic (raw format) to be used against opponent char. And finally, there? the background music. SFR supports wav format music (I?e tried it), and there? a small expansion file called sfmidi.exe which will allow for midi support.
+
+The bottom row is a list of opponents. When you play as them in tournament mode, these will be your opponents. The default files usually come with two random opponents, followed by a mirror match. But you can add more matches, rival bouts (w/out dialouge), and even system bosses! End it by putting [ending]. I may do an update on how to make endings if anyone ever finds out how.
+
+ 
+
+Seq Files
+
+These are the critical files in editing char? to their full potential. Ever wanted to make that ultimate attack for your favorite char? Here? where you start. And whatever you do, don? give up. It takes practice, time, and lots of re-editing. For some of us, that? half the game! And if you plan to edit char?, I suggest you make a template of system-bound animes like hit reactions, walks/jumps, etc. You might want to open a real seq up as you?e reading this, it might be easier to understand what I? talking about.
+
+The patterns located throughout the bottom tell stats like:
+
+The number used to refer to this "frame"
+The picture in the ide (visible through sfeditor.exe)
+Horizontal movement (+ for forward, - for backward)
+Vertical movement (+ to move DOWN, - to move UP? I like to think of this as the gravity effect so I don? think + to go up?)
+The (Frame-Type; Variable; Hit-Reaction-Type; Direction; Cancelability; Blockability; Invincibility)
+For direction, R is rotated 180, F is flipped horizontally, U is upside-down. Simple, huh?
+
+Cancelabilty consists of 3 factors, the ability to cancel to? Standard Movements, Standard hits, Special and Super moves. It interprets the value in binary, so:
+
+ 	
+Movements
+
+Hits
+
+Specials/Supers
+
+0
+
+0 No
+
+0 No
+
+0 No
+
+1 (Common for Hits)
+
+0 No
+
+0 No
+
+1 Yes
+
+2
+
+0 No
+
+1 Yes
+
+0 No
+
+3 (Common for jumps)
+
+0 No
+
+1 Yes
+
+1 Yes
+
+4
+
+1 Yes
+
+0 No
+
+0 No
+
+5
+
+1 Yes
+
+0 No
+
+1 Yes
+
+6
+
+1 Yes
+
+1 Yes
+
+0 No
+
+7 (Movement Standard)
+
+1 Yes
+
+1 Yes
+
+1 Yes
+
+Blockability/ Invincibility work on a send/receive level. Both use 4 variables, H (high), L (low), A (Both), x (none, and it is lowercase). Used in blocking/dodging attacks. If an Blockability matches an Invincibility, no damage is done, otherwise damage is inflicted. If an A matches either way, it will be considered a match. An x on blockability is considered unblockable, or no need in blocking.
+
+Frame Types
+
+There are several types of frames, and several factors involved in finding the right effects. Some frames work by themselves like:
+
+M- movement frames
+
+Basically, to move around. Also used in unblockable attacks. The variable (indicated above) is unblockable damage. For a standard movement, this is 0.
+
+A- attack frames
+
+Frames that allow an opponent to block, while inflicting damage. Damage level (1-7) is the variable. Can inflict Level 0 damage, while applying a hit reaction setup.
+
+N- "nonexistant" frames
+
+Certain characters have some type of pass-through ability, and this is the type of frame used for that. This does not make you invincible, and in every other way is just like an A frame, only it allows your char and your opponent to pass through each other without pushing. Level 0 is no attack.
+
+D- defensive frames
+
+In short, blocking. Cannot be direction-influenced, so skip it. The blockability indicates whether it? a high or low block. Best to get these in your template.
+
+?where some require an accompanying animation number, like:
+
+F- projectile frames
+
+Often used in fireball attacks, but known to pop up elsewhere, too. The variable is the number of animations to project, that is to use separately from your character. For each one you must provide an animation number (not to be considered or confused w/ a frame number, important later). If the variable is 0, it will project an impact star, which is why this type is used in hit reactions. If the facing direction is altered, only you will be turned around, not your fireball.
+
+C- Contact frames
+
+Used like an A frame, variable is still damage level, but this must be followed by an animation number. If you make contact, it will continue into the indicated animation. If it is missed, the animation will continue, starting with the frame AFTER the follow-up anime. Use invincible for counters like Ate-mi-Nage.
+
+H- Hit react frames (not to be mistaken for hit reactions)
+
+Just like the C frame, but the hit involved must be unblocked to follow up.
+
+B- Block react frames
+
+Similar to C frames, but will only follow up if blocked. And the follow-up is usually a wide-open penalty instead of an extra-hit reward. Can be tweaked with unblockables for guard crush attacks.
+
+R- the Random frame
+
+Popular to use with win poses, the variable is the number of potential follow-up animations. If it? a 3, the next 3 numbers in the anime will be possible follow-ups, and one will randomly be chosen and played.
+
+Animations
+
+The other ingredient of the critical seq?, these are what bring your characters to life. After building a decent size frame base, you?l need to animate your char?. Basically, you have your first identifier number, and then your frames involved. There may be follow-up anime numbers in there too, depending on the types of frames used. There are system-bound animations, which I?l list, and special/super move animations, which you?l want to know for your cmd files. The last two numbers (except when using random frames) are [the next animation, usually 0 (stand-still) or a wide-open penalty for missing H/C frame attacks] and ?1(end of animation).
+
+System Animes
+
+Anime Number
+
+Typical Action
+
+0
+
+Stand Still
+
+1
+
+Jump Up
+
+2
+
+Crouch
+
+3
+
+Walk Back
+
+4
+
+Jump Back
+
+5
+
+Crouch Back
+
+6
+
+Walk Forward
+
+7
+
+Jump Forward
+
+8
+
+Duck Forward
+
+9
+
+High Block
+
+10
+
+Low Block
+
+11
+
+Stand LK
+
+12
+
+Stand MK
+
+13
+
+Stand HK
+
+14
+
+Stand LP
+
+15
+
+Stand MP
+
+16
+
+Stand HP
+
+17
+
+Close LK
+
+18
+
+Close MK (Throw)
+
+19
+
+Close HK (Throw)
+
+20
+
+Close LP
+
+21
+
+Close MP (Throw)
+
+22
+
+Close HP (Throw)
+
+23
+
+Air LK (Up)
+
+24
+
+Air MK (Up)
+
+25
+
+Air HK (Up)
+
+26
+
+Air LP (Up)
+
+27
+
+Air MP (Up)
+
+28
+
+Air HP (Up)
+
+29
+
+Air LK
+
+30
+
+Air MK
+
+31
+
+Air HK
+
+32
+
+Air LP
+
+33
+
+Air MP
+
+34
+
+Air HP
+
+35
+
+Duck LK
+
+36
+
+Duck MK
+
+37
+
+Duck HK
+
+38
+
+Duck LP
+
+39
+
+Duck MP
+
+40
+
+Duck HP
+
+41
+
+Win Pose (odd round)
+
+42
+
+Win Pose (even round)
+
+125/126
+
+Win Anime (repeats itself, cancel to 125/126)
+
+44
+
+Loss to non-existant timer (don? get this?)
+
+127
+
+Loss Anime
+
+45-70
+
+Special Moves, Fireballs, etc. Let your imagination fly?
+
+71
+
+Hit reaction 0- Minor oof
+
+72
+
+Hit reaction 1- Bigger oof
+
+73
+
+Hit reaction 2- Major oof
+
+74
+
+Hit reaction 3-
+
+75
+
+Hit reaction 4-
+
+76
+
+Hit reaction 5- Trip/Takedown
+
+77
+
+Hit reaction 6- Vaccum Effect
+
+78
+
+Hit reaction 7- Fire Takedown
+
+79
+
+Hit reaction 8- Shoulder Thrown
+
+80
+
+Hit reaction 9- Electrically Paralyzed
+
+81
+
+Dizzy Effect (Hint: projectile 82)
+
+82
+
+Dizzy Stars
+
+83
+
+Hit reaction A- Knock off-screen
+
+84
+
+Hit reaction B- ???
+
+85
+
+Hit reaction C- Suplexed?
+
+86
+
+Hit reaction D
+
+87
+
+Hit reaction E- Uppercut!!! (Took me forever to find that?)
+
+88
+
+Hit reaction F- Final Justice Finale/Air Suplex
+
+89
+
+Hit reaction (G?)- Paralysis
+
+90
+
+Hit reaction H-
+
+91
+
+Hit reactiion I-
+
+92
+
+Hit reaction J-
+
+93
+
+Hit reaction K-
+
+94
+
+Hit reaction L-
+
+95
+
+Hit reaction M-
+
+96
+
+Hit reaction N-
+
+97
+
+Hit reaction O- Juggernaut/Hulk Slam
+
+98
+
+Hit reaction P-
+
+99
+
+Hit reaction Q- Knockaway
+
+111
+
+Paralysis Again?
+
+112
+
+???
+
+107
+
+Recover from fall
+
+299
+
+Intro
+
+Anything Else?
+
+Whatever you make it?
+
+ 
+
+Cmd Files
+
+This is the other ingredient in move-editing. This is where you add special and super moves, as well as anything not included in the system animes (like air-blocks, guard-crushes, etc.). It looks like this:
+
+Spidey!
+
+50
+
+=quote=
+
+2
+
+DO_YOUR_JOB
+
+SPIDER_SENSE_TINGLES
+
+=special=
+
+UU1UU 115 N 1
+
+3fdf 50 N 1
+
+3fd 47 N 1
+
+3fd 53 A 1
+
+6bd 132 N 1
+
+2fdf 49 N 1
+
+2fd 46 N 1
+
+2fd 52 A 1
+
+5bd 131 N 1
+
+1fdf 48 N 1
+
+1fd 45 N 1
+
+1fd 51 A 1
+
+4bd 130 N 1
+
+_end -1 x 0
+
+=cspecial=
+
+_end -1 x 0
+
+=super=
+
+ppfd 58 N 1 |MAXIMUM_SPIDER
+
+kkfd 81 N 1 |CRAWLER_ASSAULT
+
+_end -1 x 0
+
+The name is irrelevant, so put anything you want here. That 50 under the name? remember how the seq had close and far hits? Well, this is how close the opponent must be in order to use close attacks like throws.
+
+Then there? the quote section. The number indicates the number of winning quotes the char has. These will be displayed after a victory. You can? use spaces (use underscores/dashes instead), and punctuation won? be displayed. You might keep these within about 35 characters long, as you will only be able to see 1 screen width? worth of text.
+
+Next, the specials. If you?e ever played a fighting game, you don? need to be clued in on what one is. First there? the command- but it must be entered BACKWARDS. For example, a down-to-forward and LP would be [1fd]- the 1 for the LP, f for forward, d for down. [u &d] refer to up and down, [b & f] refer to back and forth, and each button has a number:
+
+1-LP 2-MP 3-HP 4-LK 5-MK 6-HK
+
+Don? use uppercase letters, or the move will require a LONG hold, which will make it next-to impossible to perform. Use repeated lowercase letters for hold moves instead. Also as a little-known fact, you can put a symbol corresponding to a shifted number [!@#$%^] for a hold down in air move (splashes, alt jump-ins). You can refer to any-punch as p, any-kick as k (don? use for specials, even fireballs-make different animations with different speeds and effects for really good char?). [l/m/h] can work for strengths, but note that lp does NOT mean to use LP; but instead to use any light button AND any punch button.
+
+The number after the command refers to which seq animation to trigger, which is why you should start there. Most specials/supers use more than one animation, and that? why follow-ups and certain frames exist, so you only need to put the first, main animation for your character (not your fireball?).
+
+The next letter refers to the environment of that move. An N indicates that it? performed on the ground. An A refers to an air move, which must be listed seperately, even if using the same animation (ex: giving Ryu mid-air Hadokens). A C is only used in specials, to cancel into a specific set of moves in the cspecial section, like Rekka-Kens, or for that matter, Gamma Charges. Ms are only found in Supers, and simply allow you to "morph"using another ide, seq, and cmd file, so you can make transformable characters! The seq animation involved is performed AFTER transforming, so it? the new char? move performed, not the old one?, and you can? use these in mid-air.
+
+Then, another number appears, which is a variable (another one). This is determined by the environment. If it? a Super Move, it indicates the number of levels it takes to use the move. If it? an N, it determines nothing, as far as I can tell. But you must put a 0 or a 1 there. If it? an Air move, putting a 1 there will allow the animation complete control of your movement. This always happens with mid-air Supers A 0 means that the anime will influence it, but in addition to your jumping arc, in a momentum-based style.
+
+In a C, it will say how many cspecials it can combo into. This is then followed by a string of numbers (amount equal to the first one), telling which cspecials on the list they can perform (Important: the first one is 0, not 1). The cspecial list is the same concept as the special list, except will only be performed if comboed into by a type C special. No C Supers Exist, nor do air-chainers (that is, both A and C in one command. You CAN chain a C special to an [A special on the cspecial list].
+
+In your super list, you can follow the numbers with a name if you? like. Simply type a space, followed by a "pipe" | (shift +\), then the name. The limits are the same as the win quotes, except the length. They will scroll across the screen if active during a KO, so all can be viewed. For some reason, if the KO?d char is performing a super, you?l get theirs. And if both of you pull supers, Both names will scroll together like a jumble of jibberish? {:^P
+
+After each move list (not quotes), you must terminate the list by putting the following line:
+
+_end -1 x 0
+
+Cfg Files
+
+There are specifically 2 cfg file types. The first is SFR.cfg. This one is a batch file, telling the exe where to get certain information, and is critical in it? operation. At the bottom of the list, there should be another cfg file. You can change this file to whatever you want, but make sure it exists. Using a non-formatting text editor like Notepad or Edit.com, you can set up your game.
+
+First, list a raw-format background/pic to be your select screen backdrop. Second, put a mid or wav file as your select screen music. Then 2 numbers, the number of spaces across per row, and the number of rows per screen. If you have more char? than spaces, don? worry, you can press tab on the select screen to scroll to the next "screen" of them. Then, vertically list all char? id files (with .id extention) for char? to be included, followed by "_end" at the bottom.
+
+Techniques I use
+
+For Super Moves
+
+Beam Supers- Simply take and copy a fireball animation, change it? seq identifier, and at the F frame and fireball anime, copy and paste it 7-10 times. Look at the fireball anime, and make sure it only does level 1 damage, and doesn? score a knockdown.
+
+Air-defense/Wave Supers- Find a smooth air-defense attack, copy and renumber the frames at the bottom. Set movement to 10 0, and hit effects to E (uppercut reaction). Edit normal move to move 7 ?10, and make a new animation. Use the renumbered frames toghether twice (usually 3 hitting frames), and copy/paste the special move anime at the end.
+
+Do-or-Die Supers- For moves like Final Justice, Ryuko Ranbu, etc. I like ot use 4-5 Cframes, invincible. I give them a half-screen range, so even though they out prioritize beams, they don? always beat them out. And after the C or H frames, instead of closing in a no-harm-done anime (0), I?l cancel them into something particularly vulnerable, such as a forward jump or slide-stall.
+
+Hit-or-Miss Supers- These are different from Do-or-Die supers, in the fact that it? a bunch of hits strung together, flowing forward, and it? not invincible. I?l push forward an average distance of 0 12 per frame, and at the end, I use a similar H frame to follow-up power attack. The hits do minimal damage, they?e just about entrapment. The follow-up will usually involve a special move, juiced up for high damage (like a level 5 Flash Kick), and the missed follow-up will be more stall time. Not too hard for familiar copy/pasters.
+
+Charge Supers- Usually, I?l make them fire a single projectile dash-attack to beat out standalone fireballs, but not beams unless you catch them in their first couple of frames. I?l use about 15 A frames, Lev.1 Damage. The projectile dasher will only hit once and "dissipate", while the real char will continue the dash attack, so it? fair. I like to use an F1 frame, followed by the animation for the dash, followed by it again with the ?1 right after it, so the two are almost in synch.
+
+Dive Supers- Now these are fun. You make a frame or two going almost straight up about 100 pxl/frame using hit reaction 1, and repeat it about 7 times. Make one frame (doesn? matter what because you?l be off screen, and go forward 150 pixels. Now make your drop frame going at the same fwd rate as before, coming down at 100 pxls/frame, for another 7 frames. Now considering the limited hits of reaction 1 (mainly for air-defense/follow-up purposes), you could set Level 3 damage, as your move will almost definitely hit less than 7 times. GAMMA CRUSH!
+
+Vertical Supers- These are the reason I set my vaccum effects to ?7 vert movement. If you do this, vaccum moves will hit normally, and you can add tremendous range to these. I often use N frames for these, and of course go up a steady stream of -7s. I?l have a short intro "dance" into these (usually recover from down copy/paste), and finally a simple 4-frame repeating spin, and a drop frame. Rolling attacks, Tatsumaki-Zanku-Kicks, anything that spins can be used as a base for this! The hard part is making up names for these?
+
+EX Special Supers- Out of ideas? Take (copy/paste) a normal move, make one new F frame, put it at start of move, have it fire weak move, put F frame again, have it fire mid move, and there you go! Choose moves wisely, as knockdown/fire takedown moves don? combo well? and just call it "Hyper [special move name]".
+
+Level 0 Supers!- I use these for low-damage taunts, just for the pop-in text. And you can set Supers of any kind, including M to Level 0? and they?l work. {:^D

@@ -1,0 +1,1110 @@
+SFRANMA2 beta           11/05/2000
+         update 1       11/19/2000
+         update 2        3/20/2002 
+
+SFR engine created by Trufenix (drkfenix@aol.com)
+Characters and game created by Ghouly Mad Maximoff (Maximoff@aol.com)
+
+TO PLAY TYPE "SFRANMA"
+
+THE DEAL
+
+After working on this game for so long, I decided to release as complete a
+game I could, considering the limitations of the engine.  I have also
+decided to forego any hidden character unlocking system and have all
+characters playable from the start.  I'll be the first to admit that this
+game is not as good as it should be, or that it even comes close to mugen,
+but I have worked very hard on this game and I think it's worth a look.  It
+is still in the beta stages and I have not added many endings or story.
+That's actually been the hardest part of making this game.  So I'll save them
+for later.
+
+
+DEFAULT CONTROLS (can change in options)
+----------------------------------------
+Player 1
+Start           - Enter   
+Up              - Keypad 8
+Down            - Keypad 5
+Left            - Keypad 4
+Right           - Keypad 6
+Lght Punch      - A
+Med Punch       - S
+Hard Punch      - D
+Lght Kick       - Z
+Med Kick        - X
+Hard Kick       - C
+
+Player 2
+Start           - \       
+Up              - O
+Down            - K       
+Left            - L
+Right           - ;        
+Lght Punch      - Q
+Med Punch       - W
+Hard Punch      - E
+Lght Kick       - R
+Med Kick        - T
+Hard Kick       - Y
+
+To switch between select screens press Tab.
+
+
+THE STREET FIGHTERS
+-------------------
+
+MR. RYU
+D,F,Punch               Fireball
+D,B,Kick                Cyclone Kick (ground or air)
+F,D,F,Punch             Dragon Punch
+F,D,F,Hard Kick         Demon Warp (forward)
+B,D,B,Hard Kick         Demon Warp (back)
+F,D,Medium Punch        Collarbone Strike
+F,D,Hard Punch          Elbow Strike
+Throw w/ P2/P3          Shoulder Throw
+Throw w/ K2/K3          Leg Throw  
+SUPER ARTS
+D,F,D,F,Hard Punch      Violent Fireball (level 2)
+D,B,D,B,Hard Kick       Violent Hurricane (level 2)
+D,F,D,F,Hard Kick       Violent Dragon (level 2)
+D,B,D,B,Hard Punch      True Dragon Punch (level 3)
+
+- My take on "Satsui Hado No Ryu".  He hasn't been overcome by dark power.
+He's just a big jerk :).  The True Dragon Punch is the one from SFA3, w/o
+the distance limitations.
+
+
+CHUN LI - classic
+D,F,Punch               Dual Energy Palm
+B,F,Kick ground or air  Spinning Bird Kick        
+Tap Kick                100 Kicks                         
+Throw w/ P2/P3          Slam Throw
+Throw w/ K3             Falling Star
+SUPER ARTS
+B,F,B,F,Hard Kick       1000 Burst Kick (level 2)
+D,B,D,B,Hard Kick       Spinning Hornet Kick (level 2)
+
+- Loosley based on the EX version of Chun from Capcom vs SNK.  She has the
+original outfit.
+
+
+CHUN LI - X   
+B,F,Punch               Energy Blast    
+D,B,Kick                Circle Kick     
+D,B,Kick                Rising Spin        
+Tap Kick                100 Kicks                         
+Throw w/ P2/P3          Slam Throw
+Throw w/ K3             Falling Star
+SUPER ARTS
+B,F,B,F,Hard Kick       1000 Burst Kick X (level 2)
+D,B,D,B,Hard Kick       Heaven Kick (level 2)
+
+- No, not one of those types of edited characters, the X means that I have
+her the SFA/X-Men type attacks.  This one is in the leggers outfit.
+
+
+GUILE
+B,F,Punch               Sonic Boom       
+D,B,Kick                Flash Kick      
+D,B,Hard Punch          Backfist                               
+Throw w/ P2             Arm Toss
+Throw w/ P3             Dragon Suplex
+Throw w/ K3             Inverted Jump Kick
+SUPER ARTS
+D,B,D,B,Hard Kick       Flash Justice (level 2)
+B,F,B,F,Hard Punch      Sonic Hurricane (level 2)
+
+- Nothing much to say here, same as he ever was.
+
+
+ZANGIEF       
+F,D,B,Hard Punch        High Piledriver
+F,D,B,Hard Kick         Advancing Suplex
+B,F,Hard Punch          Spinning Lariat
+B,F,Hard Kick           Turbo Lariat
+F,D,F,Kick              Banishing Fist
+D,Med Punch in air      Air Headbutt
+D,Hard Punch in air     Body Splash
+D,Med Kick in air       Knee Drop
+Throw w/ P2             Piledriver  
+Throw w/ P3             Back Suplex     
+Throw w/ K2             Iron Claw                
+Throw w/ K3             Biting           
+SUPER ARTS
+D,B,D,B,Hard Punch      Atomic Piledriver (level 2)
+
+- Only one super, but it does a ton of damage.  As a wrestling fan, I felt
+the need to add a lot of grappler characters :).
+
+
+BALROG              
+B,F,Punch               Dash Straight
+B,F,Kick                Dash Upper    
+B,D,Punch               Dash Trip     
+D,U,Punch               Buffalo Headbutt
+F,D,B,Hard Punch        Turn Punch (can hold Punch for 3 more levels)
+Throw w/ P2/P3/K2/K3    Rapid Headbutt
+SUPER ARTS
+B,F,B,F,Hard Punch      Crazy Buffalo Straight (level 2)
+B,F,B,F,Hard Kick       Crazy Buffalo Upper (level 2)
+D,B,D,B,Hard Punch      Gigaton Blow (level 3)
+
+- Nothing much here either.  Same as I always saw him.
+
+
+ANGRY KEN     
+D,F,Punch               Fireball
+D,B,Kick                Cyclone Kick (ground or air)
+F,D,F,Punch             Dragon Punch
+F,D,Med Kick            New Axe Kick
+F,D,F,Hard Kick         Demon Warp (forward)
+B,D,B,Hard Kick         Demon Warp (back)
+Throw w/ P2/P3          Shoulder Throw
+Throw w/ K2             Knee Blast 
+Throw w/ K3             Leg Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Dragon Breaker (level 2)
+D,F,D,F,Hard Kick       New Dragon Punch (level 2)
+D,B,D,B,Hard Punch      Energy Dragon Punch (level 3)
+
+- Due to jealousy, Ken dyes his outfit and learns some fancy moves.  The
+sprites are from SSF2T.  The New Dragon Punch (Shinshoken) is pretty much the
+Shinryuken without a spiral.  The Energy Dragon Punch (Hadoshoryuken) is
+loosely based on an attack he used from the Street Fighter V anime series.
+
+
+SAGAT               
+D,F,Punch               High Tiger Shot
+D,F,Kick                Low Tiger Shot   
+F,D,F,Punch             Tiger Uppercut    
+F,D,F,Kick              Tiger Knee   
+Throw w/ P2/P3          Tiger Throw 
+Throw w/ K2/K3          Tiger Rage 
+SUPER ARTS
+D,F,D,F,Hard Punch      Tiger Cannon (level 2)
+D,F,D,F,Hard Kick       Tiger Genocide (level 2)
+D,B,D,B,Hard Kick       Tiger Raid (level 2)
+
+- Another character pretty much the same, one of my old favorites.
+
+
+EVIL DAN      
+D,F,Punch               Fireball
+D,B,Kick                Wind Kick (ground or air)
+F,D,F,Punch             Dragon Punch
+F,D,F,Hard Kick         Demon Roll (forward)
+B,D,B,Hard Kick         Demon Roll (back)
+F,B,Hard Punch          Taunt
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Roaring Fireball (level 2)
+D,F,D,F,Hard Kick       Shining Dragon (level 2)
+D,B,D,B,Hard Kick       Self-reliant Fist (level 2)
+D,B,D,B,Hard Punch      Legendary Taunt (level 2)
+P1,P1,F,P3,K1           Instant Hell Taunt (level 3)
+
+- My "Evil" character parodies catch up to Dan.  Despite the fact he is now
+evil, he's still the same old Dan we all know and love.  He puts his own
+twist on his versions of the Teleport and Instant Hell Murder.
+
+
+FEI LONG      
+D,F,Light Punch
+to Medium Punch
+to Hard Punch           3 step punch
+B,D,B,Kick              Dragon Kick
+B,D,F,Kick              Flying Kick
+F,D,Medium Kick         Overhead Kick
+Throw w/ P2/P3          Arm Throw   
+SUPER ARTS
+D,F,D,F,Hard Punch      True Shining Punch (level 2)
+D,B,D,B,Hard Kick       Dragon Spiral (level 2)
+
+- The sprites are from SSF2T.  Actually, this is the same file from SFranma1.
+I tried to get the SFA3 sprites, but screwed up, and didn't realize why
+until just a couple of days ago (I saved the files as JPG instead of GIF).
+
+
+ADON                
+F,D,F,Kick              Jaguar Knee    
+D,F,Kick                Jaguar Kick      
+D,B,Kick                Jaguar Tooth      
+D,F,Hard Punch          Jaguar Crunch
+Throw w/ P2/P3          Jaguar Carry
+Throw w/ K2/K3          Jaguar Slam
+SUPER ARTS
+D,F,D,F,Hard Punch      Jaguar Assault (level 2)
+D,F,D,F,Hard Kick       Jaguar Revolver (level 2)
+
+- Still the same.
+
+
+RAINBOW MIKA
+D,B,Punch               Flying Peach   
+D,B,Kick                Shooting Peach   
+D,F,Hard Punch          Paradise Hold     
+D,F,Hard Kick           Daydream Headlock
+D+Hard Punch in air     Mika Frog Splash
+Throw w/ P2             Headbutts   
+Throw w/ P3             Brainbuster 
+Throw w/ K2/K3          German Suplex
+SUPER ARTS
+D,F,D,F,Hard Punch      Rainbow Hip Rush (level 2)
+D,B,D,B,Hard Punch      New Heavenly Dynamite (level 2)
+
+- Unlike the original beta of SFranma 2.  This is the original Mika, all
+moves the same, except for the New Heavenly Dynamite, which ends with an
+automatic 450 splash.
+
+
+ROSE
+D,F,Punch               Soul Spark
+D,F,Kick                Soul Drill
+F,D,F,Punch             Soul Throw
+D,B,Punch               Soul Reflect
+Throw w/ P2/P3/K2/K3    Soul Drain
+SUPER ARTS
+D,F,D,F,Hard Punch      Aura Soul Throw (level 2)
+D,B,D,B,Hard Punch      Aura Soul Spark (level 2)
+
+- My all time favorite SFA series character.  I couldn't make the Soul
+Reflect moves....reflect.  They just cancel projectiles.  The Soul Throw
+is a little buggy too.  I did add a little effect to the Aura Soul Throw
+though.
+
+
+SAKURA   
+D,F,Punch               Fireball (Can hold for 1 more level on Medium Punch,
+                                  2 levels on Hard)
+D,B,Kick                Cyclone Kick
+F,D,F,Punch             Dragon Punch
+F,D,Medium Kick         Flower Kick
+Throw w/ P2/P3          Choke Hold   
+Throw w/ K2/K3          Arrow Shoot   
+SUPER ARTS
+D,F,D,F,Hard Punch      Vaccum Fireball (level 2)
+D,B,D,B,Hard Kick       Vaccum Hurricane (level 2)
+D,F,D,F,Hard Kick       Confusing Cherry (level 2)
+
+- No big changes.
+
+
+KARIN KANZUKI
+D,F,Hard Punch          Double Palm
+follow w/ D,F,Light Punch       Palm Thrust
+follow w/ D,F,Medium Punch      Double Elbow
+follow w/ D,F,Hard Punch        Spin Punch
+follow w/ D,F,Light Kick        Double Kick
+follow w/ D,F,Medium Kick       High Reversal
+follow w/ D,F,Hard Kick         Low Reversal
+F,D,F,Punch             Palm Thrust
+F,D,F,Kick              Double Kick
+B,D,B,Punch             Double Elbow
+B,D,B,Kick              Spin Punch
+D,B,Hard Punch          High Reversal
+D,B,Hard Kick           Low Reversal
+F,D,Medium Kick         Elegant Kick
+Throw w/ P2/P3          Takedown         
+Throw w/ K2/K3          Rapid Knee 
+SUPER ARTS
+D,F,D,F,Hard Punch      Kanzuki Palm (level 2)
+D,F,D,F,Hard Kick       Kanzuki Spiral (level 2)
+
+- Still no big changes.  But this is one of my better efforts in translating
+characters.
+
+
+EAGLE
+D,F,Punch               Oxford Red
+D,B,Punch               Manchester Black
+D,B,Kick                Liverpool White
+Throw w/ P2/P3/K2/K3    Eagle Toss
+SUPER ARTS
+D,F,D,F,Hard Punch      Union Jack Platinum (level 2)
+D,B,D,B,Hard Punch      Mancheater Gold (level 2)
+
+- Sprites from Street Fighter 1.  Doesn't play exactly like Capcom vs SNK 2,
+but I think he came out pretty good.
+
+
+GUNLOCK       
+Tap Punch               Sonic Fist     
+D,F,Kick                Flash Kick     
+D,B,Kick                Leg Lariat         
+D+Hard Punch in air     Diving Elbow Drop
+Throw w/ P2/P3/K2/K3    Front Bomb
+SUPER ARTS
+B,F,B,F,Hard Punch      Sonic Blitz (level 2)
+D,B,D,B,Hard Kick       Flashing Three (level 2)
+
+- Guile's cousin from Slam Masters.  Based on Slam Masters 2, with a little
+Charlie influence.
+
+
+CHO SHIN GOUKI
+D,F,Punch               Great Fireball
+D,F,Punch in air        Air Cutter Fireball
+B,D,F,Punch             Great Heat Fireball
+D,B,Kick                Great Cyclone Kick (ground or air)
+F,D,F,Punch             Great Dragon Punch
+F,D,F,Hard Kick         Demon Warp (forward)
+B,D,B,Hard Kick         Demon Warp (back)
+Throw w/ P2/P3          Shoulder Throw
+Throw w/ K2/K3          Leg Throw  
+SUPER ARTS
+D,F,D,F,Hard Punch      Supreme Fireball (level 2)
+D,F,D,F,Hard Kick       Supreme Dragon Punch (level 2)
+D,B,D,B,Hard Kick       Supreme Spiral (level 2)
+P1,P1,F,P3,K1           Instant Hell Murder (level 3)
+
+- Of course Gouki in his most evil form.........from Pocket Fighter.
+
+
+M.BISON       
+Normal:
+B,F,Punch               Psycho Shot
+B,F,Kick                Scissor Kick                
+D,U,Punch               Devil Reverse
+D,U,Light/Med Kick      Devil Stomp
+D,U,Hard Kick           Devil Stomp to Reverse
+F,D,F,Hard Kick         Bison Warp (forward)
+B,D,B,Hard Kick         Bison Warp (back)
+Throw w/ P2/P3/K2/K3    Deadly Throw  
+SUPER ARTS
+B,F,B,F,Hard Punch      Super Psycho Crusher (level 2)
+B,F,B,F,Hard Kick       Scissor Nightmare (level 2)
+D,B,D,B,Hard Punch      Change to Shin Bison (level 3)
+CPU ONLY                Change to Shin Bison (level 1)
+Shin Bison:
+B,F,Punch               Psycho Crusher
+B,F,Kick                Juggle Scissor             
+D,U,Punch               Devil Reverse
+D,U,Kick                Devil Stomp to Reverse
+F,D,F,Hard Kick         Quick Warp (forward)
+B,D,B,Hard Kick         Quick Warp (back)
+Throw w/ P2/P3/K2/K3    Deadly Throw  
+SUPER ARTS
+B,F,B,F,Hard Punch      Final Psycho Crusher (level 2)
+B,F,B,F,Hard Kick       Scissor Nightmare (level 1)
+
+- The original boss from SFranma 1.  And a sub-boss in SFranma2.  The Final
+Psycho Crusher is supposed to be Bison's "killer" move, same is the one
+from SFA3, with a little change (you'll know it when you see it).
+
+
+THE RANMA 1/2 GANG
+------------------
+
+RANMA SAOTOME - Male
+D,F,Punch               Fierce Tiger
+D,B,Punch               Dragon Ascent
+Tap Punch               Chestnut Fist
+D,F,Kick                Tumbling Kick
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Dragon Descent (level 2)
+D,B,D,B,Hard Punch      Supreme Chestnut Fist (level 2)
+
+- From Ranma 1/2: Hard Battle.  The Supreme Chestnut fist is a new move.
+With all the Hard Battle characters, I based their moveset on the one from
+Super Battle.
+
+
+RANMA SAOTOME - Female
+D,F,Punch               Fierce Tiger
+D,B,Punch               Dragon Ascent
+Tap Punch               Chestnut Fist
+D,F,Kick                Tumbling Elbow
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Dragon Descent (level 2)
+D,B,D,B,Hard Punch      Dashing Chestnut Fist (level 2)
+
+- From Ranma 1/2: Hard Battle.  Moves faster and hits more at times.  The
+Dashing Chestnut fist is a new move.
+
+
+RYOUGA HIBIKI
+D,F,Punch               Roaring Lion Shot (Incomplete)
+D,B,Punch               Blasting Point Hole
+B,F,Hard Punch          Jumping Headbutt
+Throw w/ P2/P3/K2/K3    One-handed Power Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Roaring Lion Shot (Complete) (level 2)
+D,B,D,B,Hard Punch      Exploding Blasting Point Hole (level 2)
+
+- From Ranma 1/2: Hard Battle.  Exploding Blasting Point Hole is a new move.
+
+
+AKANE TENDO
+B,F,Punch               Windblast Fist
+D,B,Punch               Dust Devil Uppercut
+D,F,Kick                Spin Kick
+Throw w/ P2/P3/K2/K3    Leg Throw
+SUPER ARTS
+B,F,B,F,Hard Punch      Powerblast Fist (level 2)
+B,F,B,F,Hard Kick       Super Spin Kick (level 2)
+
+- From Ranma 1/2: Hard Battle.  Super Spinkick is a new move.
+
+
+UKYO KUONJI
+D,F,Punch               Spatula Throw
+D,F,Kick                Pepper Throw
+D,B,Punch               Flour Throw (can combo afterwards)
+Throw w/ P2/P3/K2/K3    Spatula Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Spatula Dash (level 2)
+D,B,D,F,Hard Punch      Spatula Rampage (level 2)
+
+- From Ranma 1/2: Hard Battle.  Spatula Dash is a new move.
+
+
+SHAMPOO
+D,F,Punch               Air Toss
+D,F,Kick                Flying Kick
+B,F,Punch               Fury Charge
+D,B,Hard Kick on ground Rolling Overhead Kick
+D,B,Hard Kick in air    Head Stomp
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+D,B,D,B,Hard Kick air   Power Stomp (level 2)
+D,F,D,F,Hard Kick       Dragon Sky Kick (level 2)
+
+- From Ranma 1/2: Hard Battle.  Dragon Sky Kick is a new move based on
+her normal from Hard Battle.
+
+
+MOUSSE
+D,F,Punch               Knife Toss
+Tap Punch               100 Weapons
+D,F,Hard Kick in air    Hawk Talon Strike
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ARTS
+B,F,D,B,Hard Punch      Egg Fist (level 2)
+D,F,D,F,Hard Kick       Arsenal Rampage (level 2)
+
+- From Ranma 1/2: Hard Battle.  Arsenal Rampage is a new move loosely based
+on the super I gave him in SFranma 1.
+
+
+GENMA SAOTOME - Human
+D,F,Punch               Panda Blast     
+D,F,Kick                Dashing Headbutt
+Throw w/ P2/P3/K2/K3    Fierce Throw
+SUPER ART 
+D,F,D,F,Hard Punch      Panda Cannon (level 2)
+
+- From Ranma 1/2: Neighborhood Combat.  Panda Cannon is a souped up version
+of the Panda Blast.
+
+
+GENMA SAOTOME - Panda
+B,F,Punch               Dashing Headbutt
+D,U,Punch               Rising Headbutt
+Tap Punch               Panda 100 Fist
+F,D,B,Hard Punch        Parental Rage
+Throw w/ P2/P3/K2/K3    Fierce Throw
+SUPER ART 
+B,F,B,F,Hard Punch      Power Headbutt (level 2)
+
+- From Ranma 1/2: Hard Battle.  Power Headbutt is a new move.
+
+
+TATEWAKI KUNO
+D,F,Punch               Sky Arc Slash
+D,F,Kick                Murderous Thunder
+B,F,Punch               Kendo Dash 
+F,B,Hard Punch          Kendo Retreat   
+Throw w/ P2/P3/K2/K3    Kendo Throw
+SUPER ARTS
+D,B,D,B,Hard Punch      Vengance of Heaven (level 2)
+B,F,B,F,Hard Punch      Lightning Strike (level 2)
+
+- From Ranma 1/2: Super Battle.  Lightning Strike is a new move based on
+an attack from Ranma 1/2: Neighborhood Combat.
+
+
+HINAKO NINOMIYA
+As child:
+D,F,Punch               50 Yen Attack (High)
+D,F,Kick                50 Yen Attack (Low)
+B,F,Hard Punch          Running Head Spin
+B,F,Hard Kick           Running Slide
+Throw w/ P2/P3/K2/K3    Hopping Punch
+SUPER ART
+D,F,D,F,Hard Punch      Change to adult form (level 2)
+As adult:
+D,F,Punch               50 Yen Attack
+D,F,Kick                50 Yen Return
+B,F,Kick                Power Kick
+Throw w/ P2/P3/K2/K3    Power Throw
+SUPER ART
+D,B,D,B,Hard Punch      Super 50 Yen Return (level 2, change to child form)
+
+- From Ranma 1/2: Super Battle. 
+
+
+KODACHI KUNO
+B,F,Punch               Club Toss    
+B,F,Kick                Ribbon Sweep     
+D,U,Punch               Poison Rose      
+Tap Punch               1000 Clubs      
+Throw w/ P2/P3/K2/K3    Ribbon Throw
+SUPER ART 
+D,B,D,B,Hard Punch      Black Rose Snowfall (level 2)
+
+- From Ranma 1/2: Super Battle.
+
+
+THE GAMBLING KING
+B,F,Punch               Mahjong Cue
+D,B,Light Punch
+to Medium Punch
+to Hard Punch           Three of a kind
+D,F,Punch in air        Two Pair
+Throw w/ P2/P3/K2/K3    Lucky Toss
+SUPER ARTS
+F,D,B,F,Hard Punch      Five Card Draw (level 2)
+
+- From Ranma 1/2: Hard Battle.  Some moves loosely based on Genjuro from
+Samurai Shodown.  Except he uses poker rules instead of Hanfuda :).
+
+
+MARIKO KONJOU
+D,F,Punch               Baton Cutter    
+D,F,Punch in air        Air Baton Cutter
+D,B,Kick                Somersault Kick
+D,F,Hard Kick           Swan Kick
+Throw w/ P2/P3/K2/K3    Cheer Throw
+SUPER ARTS
+D,F,D,F,Hard Kick       High Somersault (level 2)
+D,B,D,B,Hard Punch in air
+                        Sea Urchin Bomb (level 2)
+
+- From Ranma 1/2: Super Battle.  High Soumersault is a new move.
+
+
+COLOGNE
+D,F,Punch               True Dragon Ascent
+D,B,Punch               True Blasting Point Hole
+Tap Punch               True Chestnut Fist
+Throw w/ P2/P3/K2/K3    Cane Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      True Supreme Chestnut Fist (level 2)
+D,B,D,B,Hard Punch      True Exploding Blasting Point Hole (level 2)
+
+- From Ranma 1/2: Neighborhood Combat.  New super moves are variants of
+Ranma and Ryoga's.
+
+
+HAPPOSAI
+D,F,Punch               Happy Shot
+F,D,B,Punch             Shining Firecracker
+Throw w/ P2/P3/K2/K3    Pipe Throw
+SUPER ART 
+D,F,D,F,Hard Punch      Spirit Blast (level 2)
+
+- From Ranma 1/2: Hard Battle.  The biggest pervert in video games (except
+for M. Bison).  Spirit Blast changed into a super.  Originally in SFranma 1
+as a hidden character.
+
+
+PRINCIPAL KUNO
+D,F,Punch               Pineapple Bomb
+D,B,Punch               Atomizer         
+D,F,Punch in air        Lobster Clipper  
+Tap Punch               Rolling Clipper 
+Throw w/ P2/P3/K2/K3    Arm Throw
+SUPER ART 
+D,F,D,F,Hard Punch      Ride the Wave (level 2)
+
+- From Ranma 1/2: Neighborhood Combat.  Ride the Wave is a new super, and
+the favorite of my original moves.
+
+
+HIKARU GOSUNGKI
+D,F,Punch               Voodoo Doll Throw
+Tap Punch               Voodoo Doll Spin
+Throw w/ P2/P3/K2/K3    Arm Throw
+SUPER ART
+D,F,D,F,Hard Punch      Voodoo Revenge (level 3)
+
+- From Ranma 1/2: Hard Battle.  Pretty weak, except for the super.
+
+
+PANTYHOSE TARO - Human     
+B,F,Punch               P-Slash     
+B,F,Kick                Exploding Kick
+Throw w/ P2/P3/K2/K3    One Arm Throw
+SUPER ART 
+D,B,D,B,Hard Punch      P-Barrage (level 2)
+
+- From Ranma 1/2: Hard Battle.  Same w/ a new super.
+
+
+PANTYHOSE TARO - Beast
+B,F,Punch               Headbutt Run
+B,F,Kick in air         Beast Touchdown
+Throw w/ P2/P3/K2/K3    Horn Throw
+SUPER ART 
+B,F,B,F,Hard Punch      Headbutt Rush (level 2)
+
+- From Ranma 1/2: Hard Battle.  Very strong.  Same w/ a super.  
+
+
+HERB                
+B,F,Punch               Dragon Slash
+B,F,Kick                Power Cannon 
+D,U,Punch               Rising Knife 
+D,B,Kick                Energy Kick  
+Throw w/ P2/P3/K2/K3    Palm Throw
+SUPER ART 
+F,B,D,F,Hard Punch      New Dragon Flight (level 2)
+
+- From Ranma 1/2: Super Battle.  He's a boss character.  And that makes every
+SNES Ranma 1/2 character ever made. 
+
+
+FINAL FIGHT REVIVAL
+-------------------
+
+MIKE HAGGAR   
+F,D,B,Hard Punch        High Piledriver
+B,F,Hard Punch          Spinning Lariat
+B,F,Hard Kick           Turbo Lariat
+D,F,Punch               Hammer Swing
+D,B,Punch               Hammer Dash
+Throw w/ P2/P3          Piledriver
+Throw w/ K2/K3          Powerbomb       
+SUPER ARTS
+D,B,D,B,Hard Punch      Final Piledriver (level 2)
+B,F,B,F,Hard Punch      Final Lariat (level 2)
+
+- From Slam Masters, mostly like how he is in Slam Masters 2, with some
+new stuff.
+
+
+CODY
+D,F,Punch               Bad Stone      
+D,F,Kick                Ruffian Kick     
+D,B,Punch               Criminal Upper    
+D,B,Kick                Cyclone Kick
+B,F,Hard Kick           Crack Kick
+Throw w/ P2/P3/K2/K3    Chain Toss 
+SUPER ARTS
+D,F,D,F,Hard Punch      Final Destruction (level 2)
+D,F,D,F,Hard Kick       Dead End Irony (level 2)
+D,B,D,B,Hard Kick       Cyclone Kick Vortex (level 2)
+
+- Pretty much the same.  Except a new special and super based on his
+P+K move in Final Fight.
+
+
+GUY
+D,F,Kick                Bushin Run
+        w/ Low Kick     Stop
+        w/ Med Kick     Slide
+        w/ Hard Kick    Neck Kick
+D,B,Kick                Bushin Gale Kick
+D,B,Punch               Mountain Breaker
+D,Med Punch in air      Elbow Drop
+F,D,Hard Kick           Typhoon Kick
+F,D,Med Punch           Neck Shatter
+Throw w/ P2/P3          Shoulder Throw
+Throw w/ K2/K3          Knee Strike   
+SUPER ARTS
+D,F,D,F,Hard Kick       Bushin Thunder (level 2)
+D,F,D,F,Hard Punch      Bushin Fist (level 2)
+D,B,D,B,Hard Kick       Bushin Vaccum Gale Kick (level 2)        
+
+- Also pretty much the same.  Also has a new super based on his P+K Final
+Fight attack.
+
+
+POISON              
+D,F,Punch               Dual Slap
+D,F,Kick                Flip Kick
+D+Hard Kick in air      Flip Kick
+D,B,Kick                Switchblade Kick
+B,F,Hard Punch          Hugo's Revenge
+Throw w/ P2/P3/K2/K3    Poison Toss 
+SUPER ARTS
+D,F,D,F,Hard Kick       Dashing Blade (level 2)
+D,B,D,B,Hard Kick       Rising Blade (level 2)
+B,F,B,F,Hard Punch      Andore Family Gathering (level 3)
+
+- From Final Fight, edited a lot.  I tried to make more Hugo/Andore attacks,
+but it didn't work out.
+
+
+SODOM               
+D,F,Punch               Hell Scrape
+D,F,Kick                Hell Stab
+D,B,Hard Punch          Unlucky Bomb
+D,B,Hard Kick           Reverse Catch  
+Throw w/ P2/P3/K2/K3    Shogun Toss 
+SUPER ARTS
+D,F,D,F,Hard Punch      Present from Hell (level 2)
+D,B,D,B,Hard Punch      Divine Punishment (level 2)
+
+- His X-ism swords version with A-ism type moves.
+
+
+ROLENTO
+D,F,Light Punch
+to Medium Punch
+to Hard Punch           Patriot Circle
+D,F,Hard Punch in air   Air Patriot Circle
+D,B,Punch               Delta Air Raid
+D,B,Kick                Delta Escape
+D,F,Kick                Stinger Knife
+D,Med Kick              Spike Rod
+Throw w/ P2/P3/K2/K3    Delta Carrier
+SUPER ARTS
+D,F,D,F,Hard Punch      Take No Prisoners (level 2)
+
+- Pretty much the same.
+
+
+FIREPRO WRESTLERS
+-----------------
+
+MORIO SMITH
+D,F,Light Kick          Combination Kick
+D,F,Med Kick            Turning Kick
+D,F,Hard Kick           Rolling Kick
+D,F,Light Punch         Sleeper Hold
+D,F,Med Punch           Low Counter
+D,F,Hard Punch          High Counter
+Throw w/ P2/P3          Suplex       
+Throw w/ K2/K3          German Suplex 
+SUPER ARTS
+D,F,D,F,Hard Punch      Yamamoto Special 78 (level 2)
+
+- Yes, the Firepro games are represented in a fighter.  Morio Smith is
+actually from Super Fire Pro Special, the game made just before Super Fire
+Pro X.  There was a good story mode, where you played as Morio and went
+through various federations, and ended up wrestling the boss.  An evil
+looking Ric Flair (I'm serious!).  This was pretty much the precursor to the
+story mode in FPG.
+
+
+ANIME GIRL A
+D,F,Punch               Texas Jabs
+D,F,Kick                Big Boot
+D+Hard Punch in air     Elbow Drop
+D+Hard Kick in air      Leg Drop of Doom
+B,F,Hard Kick           Jack Knife Powerbomb
+B,F,Hard Punch          Chokeslam
+B,F,Light Punch         Diamond Cutter Counter
+Throw w/ P2/P3          Slam
+Throw w/ K2/K3          Suplex          
+SUPER ART 
+D,F,D,F,Hard Punch      Rock Bottom Special (level 2)
+D,F,D,F,Hard Kick       Rhino Gore (level 2)
+B,F,B,F,Hard Punch      Mandible Claw (level 2)
+B,F,B,F,Hard Kick       Stone Cold Stunner (level 2)
+
+- From the Edit Ranking mode in Firepro G.  I couldn't get her "real" name,
+so I used the generic name from the FPG faqs out there.  I based her moves
+on the American style moveset she used in the edit ranking.
+
+
+CHEATING REFEREE         
+D,F,Punch               Mist Blow
+B,F,Light Punch         Illegal Move: Low Blow
+D,F,Light Kick          Illegal Move: Fork Strike
+D,F,Med/Hard Kick       Illegal Move: Fork Grab    
+Throw w/ P2/P3          Choke Hold  
+Throw w/ K2/K3          Low Kick        
+SUPER ARTS
+D,F,D,F,Hard Punch      Fire Blast (level 2)
+D,F,D,F,Hard Kick       Sickle Grab (level 2)
+
+- From the Edit Ranking mode in Firepro G.  I couldn't get his "real" name,
+so I used the generic name.  I based his moves on the "dirty" style he used
+in the edit ranking.
+
+
+MASATO TANAKA
+D,F,Punch               Roaring Elbow
+D,F,Hard Kick           Dangan Run
+        to Medium Punch Dangan Lariat
+        to Hard Punch   Dangan Elbow
+        can also be interrupted to any special or super
+B,F,Hard Punch          Thunder Fire Power Bomb
+Throw w/ P2/P3          Belly to Back Suplex
+Throw w/ K2/K3          Power Bomb  
+SUPER ARTS
+D,F,D,F,Hard Punch      Rapid Roaring Elbow (level 2)
+B,F,B,F,Hard Punch      Diamond Dust (level 2)
+
+- Mostly an inside joke between me and a friend.  We were watching this
+Japanese wrestling tape, and I was joking around that it would make a good
+fighting game, and it evolved into this.  In hindsight, I don't think adding
+these characters came out as good as I thought (actually pretty much
+everything I ever do doesn't come out as good as I thought :P).
+
+
+W*ING KANEMURA
+D,F,Light Punch         Illegal Move: Low Blow          
+D,F,Med Punch           Illegal Move: Fork Strike
+D,F,Hard Punch          Illegal Move: Fork Grab    
+D,B,Hard Punch          Human Torch         
+D,B,Kick in air         Senton Bomb
+Throw w/ P2/P3          Uranage     
+Throw w/ K2/K3          Throwing German 
+SUPER ARTS
+D,F,D,F,Hard Punch      Deathmatch Fire (level 2)
+D,B,D,B,Hard Kick       Yama Senton Special (level 2)
+
+KODO FUYUKI
+D,F,Light/Med Punch     Running Lariat
+D,F,Hard Punch          Running Lariat to backfist
+D,F,Kick                Repeated Stomps
+F,B,Hard Punch          Powerbomb    
+B,F,B,F,Hard Kick       Absorb Damage (Taunt when hit)
+Throw w/ P2/P3          Close Headbutt
+Throw w/ K2/K3          Close Elbow     
+SUPER ART 
+D,F,D,F,Hard Punch      Fuyuki Special (level 2)
+D,B,D,B,Hard Punch      Shotgun Lariat (level 2)
+
+
+WILD CARD FIGHTERS
+------------------
+
+AKO MEGAMI (originally made by majere@totalise.co.uk for Mugen)
+D,F,Punch               Power Palm
+D,B,Punch               Earthquake
+D,F,Lght/Med Kick       Flying Kick
+D,F,Hard Kick           Spring Kick
+D,F,Hard Kick in air    Diving Kick
+D,B,Kick                Rising Kick
+B,F,Hard Punch          Reversal Throw
+Throw w/ P2/P3/K2/K3    Single Arm Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Chaotic A (level 2)
+D,B,D,B,Hard Punch      Earthquake A (level 2)
+D,F,D,F,Hard Kick       Running A (level 2)
+
+- I made 2 bad versions of Ako and Bko before, then majere made them for
+Mugen.  I asked for permission, and got the go-ahead.  I couldn't have
+done any better with these edits.  And it was great to finally add these
+characters to make my dream game.
+
+
+BKO DAITOKUJI (originally made by majere@totalise.co.uk for Mugen)
+B,F,Punch               Akagiyama Missile
+B,F,Punch in air        Akagiyama Air Missile
+B,F,Kick                Stiletto Leap
+B,F,Kick in air         Stiletto Drop
+D,B,Hard Punch          Uppercut Attack
+D,B,Hard Kick           Orichi Whirl
+D,Hard Punch in air     Muscle Attack   
+Throw w/ P2/P3          Slam
+Throw w/ K2/K3          Orichi Bomb 
+SUPER ARTS
+B,F,B,F,Hard Punch              Akagiyama Destroyer (level 2)
+B,F,B,F,Hard Punch in air       Akagiyama Air Raid (level 2)
+B,F,B,F,Hard Kick               Daitokuji Sentai Attack (level 2)
+D,B,D,B,Hard Kick               Shin Orichi Whirl (level 2)
+
+KAIZOE ASA  
+B,F,Punch               Mecha Akagiyama Missile
+B,F,Kick                Mecha Rush   
+Throw w/ P2/P3/K2/K3    Mecha Toss
+SUPER ARTS
+B,F,B,F,Hard Punch              Mecha Akagiyama Destroyer (level 2)
+B,F,B,F,Hard Kick               Mecha Jackhammer Rush (level 2)
+
+- Asa is one of Bko's assistants in the Project Ako movies.  I used the
+sprite from the Bko character and edited it into the mecha from the old
+arcade game Captain Commando.  BTW I think Kaizoe means second or assistant,
+and I found that out on a website whose name escapes me.
+
+
+SAILOR MOON         
+D,F,Punch               Tiara Throw 
+D,B,Punch in air        Heart Spiral 
+D,B,Punch               Sonic Attack 
+Throw w/ P2/P3          Power Throw    
+Throw w/ K2/K3          Power Knee     
+SUPER ARTS
+D,F,D,F,Hard Punch      Silver Crystal (level 2)
+
+- Pretty much moves from the SNES version, I made that version first.  Then
+when the arcade version came out on Mame, I replaced the sprites.
+
+
+KENSHIRO, FIST OF THE NORTH STAR
+Form 1:
+D,F,Punch               Punch of the East Point
+Throw w/ P2/P3/K2/K3    Throw of the West Light
+SUPER ART
+D,F,D,F,Hard Punch      Change to form 2 (level 2)
+Form 2:
+D,F,Punch               Strike of the Northeast Sun
+D,F,Kick                Kick of the Southwest Moon
+Throw w/ P2/P3/K2/K3    Toss of the Northwest Sky 
+SUPER ARTS
+D,F,D,F,Hard Punch      Fist of the North Star (incomplete) (level 2)
+D,B,D,B,Hard Kick       That Fancy Kick He Tried To Do In The
+                        Beginning of the Movie (level 2)
+
+- Now my "tributes".  When SFA first came out, there was this guy who I
+always played against in the college arcade.  Once, as a favor, he taped a
+bunch of anime movies for me, and the rest of the semester we kept making
+jokes about it.  One was Fist of the North Star, which has to be one of
+the most fucked up movies I have ever seen.  Then I played the NES
+version of the game, and realized how violent that version was :).  However
+in SFranma 2, he has to stop his Fist of the North Star before the final
+deadly strike, because killing can get you disqualified.  Of course the anime
+that we really made fun of was...
+
+
+GOLGO 13
+D,F,Punch               Gunshot           
+F,D,B,Hard Punch        Custom M-16       
+Throw w/ P2/P3/K2/K3    Throw            
+SUPER ARTS
+D,F,D,F,Hard Punch      Cool Hunting 13 (level 2)
+D,B,D,B,Hard Punch      Sniper (level 3)
+
+- What can I say.  I never knew those 2 old NES games would lead to this.
+Golgo 13: The Professional.  Let's see.  Those cool characters like Snake,
+Gold and Silver.  The millionare was shocked that Snake wanted his wife as
+payment, then said okay a second later (you want a reciept for that?).  The
+time where Golgo puts a grenade in an assasians throat, which cleanly
+decapitates him.  Those cutting-edge computer graphics.  The fact that
+anyone who comes within close contact with Golgo 13 pretty much dies (there
+should've been a scene where Duke Togo was walking down the street on a
+daily errand like shopping for food, and everyone's running away from him.
+"No!  Stay away from me").  This movie was the subject of many laughs in
+the college arcade.
+
+
+KENDOBOY            
+B,F,Punch               Kendo Juggle
+B,F,Kick                Kendo Trip   
+Throw w/ P2/P3/K2/K3    Kendo Throw
+SUPER ART 
+B,F,B,F,Hard Punch      Kendo Rapid (level 2)
+
+- I find a NES rom called Kendoboy, I make the character on a whim.  Nothing
+else to say :).
+
+
+RYAN                
+D,F,Punch               Power Punch  
+D,F,Kick                Mach Kick    
+B,F,Punch               Acro Circus   
+Throw w/ P2/P3/K2/K3    Shoulder Throw
+SUPER ART 
+B,F,B,F,Hard Punch      Acro Carnival (level 2)
+
+- River City Ransom is represented!  Originally a hidden character in
+SFranma 1, I used graphics from River City Ransom and Riki Kunio.
+
+
+STEVEN
+D,F,Punch               Weak Looking Circle Attack
+D,B,Punch               Fake Dragon Ascent
+Tap Punch               Fake Chestnut Fist
+Throw w/ P2/P3/K2/K3    Generic Throw
+SUPER ARTS
+D,F,D,F,Hard Punch      Fake Dragon Descent (level 2)
+D,B,D,B,Hard Punch      Really Fake Chestnut Fist (level 2)
+
+- From Street Combat, aka the mangled American version of Ranma 1/2:
+Neighborhood Combat.  This was what Ranma was changed into.  A weak
+character, but not likeable like Dan.
+
+
+KUNG FU THOMAS
+No special moves or super arts, but can chain all his normal attacks.
+Throw w/ P2/P3/K2/K3    Judo Hug
+
+- The classics never die.  A new type of character I wanted to experiment
+with.
+
+
+KIM DRAGON          
+Tap Punch               100 Blows      
+D,U,Kick                Dragon Kick      
+D,F,Kick                Foot Slice        
+D,B,Kick                Flying Kick  
+Throw w/ P2/P3          Dragon Bomb 
+Throw w/ K2/K3          Choke Kick 
+SUPER ARTS
+D,F,D,F,Hard Punch      Final Blow (level 2)
+D,B,D,F,Hard Kick       Super Dragon Kick (level 2)
+
+- He can fight Fei Long to see who the real Bruce Lee clone is.
+
+
+JACKIE CHAN         
+D,F,Punch               Power Palm Attack
+D,F,Kick                Twilight Cyclone
+Throw w/ P2/P3/K2/K3    Power Toss 
+SUPER ARTS
+D,F,D,F,Hard Punch      Super Palm Combination (level 2)
+D,F,D,F,Hard Kick       Super Cyclone (level 2)
+
+- From TG-16 Jackie Chan Action Kung Fu.  The Super Palm is loosely based
+on an attack from the movie "Dragon Fist".
+
+
+HOLLYWOOD MUSCLE POWER
+B,F,Punch               Brass Knuckle Bomber
+D,F,Punch               Spraypaint Attack
+Throw w/ P2/P3/K2/K3    Liz's Failed Handcuffs
+SUPER ARTS
+D,F,D,F,Light Punch     Outside Interference: J.Max (level 1)
+D,F,D,F,Med Punch       Outside Interference: Erick (level 1)
+D,F,D,F,Hard Punch      Outside Interference: Brocken (level 1)
+B,F,B,F,Hard Punch      Not selling that brother (level 2)
+D,B,D,B,Hard Kick in air        Leg Drop of Doom (level 2)
+
+- Now that the NWO is back, and Hogan is now a face again this character
+isn't as dated.  My NWO parody from SFranma 1, he has more outside
+interference, a no sell, and the big legdrop, brother.
+
+
+COLONEL S
+D,F,Light Punch         Fireball
+D,F,Med Punch           Fierce Tiger
+D,F,Hard Punch          Dash Straight
+D,F,Light Kick          13 Spice Warp
+D,F,Medium Kick         100 Kicks
+D,F,Hard Kick           Rising Kick
+Throw w/ P2/P3/K2/K3    Throw
+SUPER ARTS
+D,F,D,F,Med Punch       Shinkuu Hadoken (level 2)
+D,F,D,F,Hard Punch      Crazy Buffalo (level 2)
+D,F,D,F,Medium Kick     1000 Burst Kick (level 2)
+D,F,D,F,Hard Kick       Dragon Sky Kick (level 2)
+
+- From Project Ako, the Colonel, a Rugal 1994 edit.  The big overpowered boss
+of the game.  He has many moves from other fighters, but powered up.
+
+
+GAME BUGS/OTHER NOTES
+---------------------
+- Match resets when ypu press Down of the keypad
+- All attackes normally D,U or another varaitaion have their direction
+  changed.  It's hard to do a D,U motion on a computer.
+- Some of the special throws screw up at times.
+- In a normal match when you throw, you get credit for winning 2 matches
+- Some attacks marked as unblockable can hit through throws
+- All "alternate forms" of characters have to be added in as separate
+  characters
+- I haven't written in endings yet.  I may not.  I suck at writing :P.
+
+Special thanks to Jenn Dolari, Trufenix, Llinrac, Nitemare James,
+Dragonball Remix, Death Adder, Majere, Derek Liu, Brian Chan,
+The makers of Callus, The makers of Final Burn, The makers of ZSNES,
+Rumiko Takahashi, Capcom, anyone who ever played a SFibm game, and anyone else
+I may have forgotten.
